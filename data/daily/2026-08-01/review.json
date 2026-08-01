@@ -1,0 +1,64 @@
+{
+  "date": "2026-08-01",
+  "n_matches": 4,
+  "hit_rate": 0.5,
+  "hits": 2,
+  "source_brier": {
+    "model": 0.6668,
+    "market": null,
+    "djyy": 0.8787,
+    "final": 0.7249
+  },
+  "by_league": {
+    "K1联赛": {
+      "n": 3,
+      "hit_rate": 0.6667,
+      "wilson_lower": 0.2077,
+      "avg_brier": 0.6388
+    },
+    "芬超": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.9833
+    }
+  },
+  "by_confidence_tier": {
+    "mid": {
+      "n": 2,
+      "hit_rate": 0.5,
+      "wilson_lower": 0.0945,
+      "avg_brier": 0.7016
+    },
+    "high": {
+      "n": 2,
+      "hit_rate": 0.5,
+      "wilson_lower": 0.0945,
+      "avg_brier": 0.7482
+    }
+  },
+  "by_odds_band": {
+    "2.0-3.0": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.2065,
+      "avg_brier": 0.4198
+    },
+    "1.0-1.5": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 1.2165
+    },
+    "1.5-2.0": {
+      "n": 2,
+      "hit_rate": 0.5,
+      "wilson_lower": 0.0945,
+      "avg_brier": 0.6316
+    }
+  },
+  "biases": [],
+  "total_pnl": 0,
+  "generated_at": "2026-08-01T16:38:57.873562",
+  "sha256": "398cc8f31d9e654c769fefbc3c96bf57"
+}
