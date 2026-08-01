@@ -674,7 +674,7 @@ body {
         <div class="prob-seg a" style="width:30.3%">A 30%</div>
       </div>
       <div class="pred-pick"><span class="pick-label">预测</span> <span class="pick-val home">主胜 44%</span> <span class="pred-score">比分 1-1 / 1-0 / 2-1</span></div>
-      
+      <div class="actual-result"><span class="ar-label">实际</span> <span class="ar-score">0-3</span> <span class="ar-outcome away">客胜</span> <span class="ar-hit miss">✗</span></div>
       
       <div class="match-info-row">
         <span class="conf-meter"><span class="conf-dot low"></span><b>8%</b></span>
@@ -844,7 +844,7 @@ body {
         <div class="prob-seg a" style="width:52.8%">A 53%</div>
       </div>
       <div class="pred-pick"><span class="pick-label">预测</span> <span class="pick-val away">客胜 53%</span> <span class="pred-score">比分 0-1 / 0-2 / 0-0</span></div>
-      
+      <div class="actual-result"><span class="ar-label">实际</span> <span class="ar-score">4-0</span> <span class="ar-outcome home">主胜</span> <span class="ar-hit miss">✗</span></div>
       
       <div class="match-info-row">
         <span class="conf-meter"><span class="conf-dot low"></span><b>24%</b></span>
@@ -1356,7 +1356,7 @@ body {
         <div class="prob-seg a" style="width:33.1%">A 33%</div>
       </div>
       <div class="pred-pick"><span class="pick-label">预测</span> <span class="pick-val home">主胜 49%</span> <span class="pred-score">比分 1-0 / 2-1 / 2-0</span></div>
-      <div class="actual-result"><span class="ar-label">实际</span> <span class="ar-score">5-0</span> <span class="ar-outcome home">主胜</span> <span class="ar-hit hit">✓</span></div>
+      
       
       <div class="match-info-row">
         <span class="conf-meter"><span class="conf-dot low"></span><b>17%</b></span>
@@ -1870,7 +1870,7 @@ body {
         <div class="prob-seg a" style="width:9.4%">A 9%</div>
       </div>
       <div class="pred-pick"><span class="pick-label">预测</span> <span class="pick-val home">主胜 79%</span> <span class="pred-score">比分 3-0 / 2-0 / 4-0</span></div>
-      
+      <div class="actual-result"><span class="ar-label">实际</span> <span class="ar-score">4-0</span> <span class="ar-outcome home">主胜</span> <span class="ar-hit hit">✓</span> <span class="ar-hit hit" title="比分命中">比✓</span></div>
       
       <div class="match-info-row">
         <span class="conf-meter"><span class="conf-dot low"></span><b>36%</b></span>
@@ -2212,21 +2212,30 @@ body {
   
   <div class="section-title">赛果复盘</div>
   <div class="results-summary">
-    <div class="ts-chip"><div class="ts-label">命中率</div><div class="ts-val" style="color:var(--green)">50% (1/2)</div></div>
-    <div class="ts-chip"><div class="ts-label">平均Brier</div><div class="ts-val" style="color:var(--amber)">0.833</div></div>
+    <div class="ts-chip"><div class="ts-label">命中率</div><div class="ts-val" style="color:var(--green)">50% (2/4)</div></div>
+    <div class="ts-chip"><div class="ts-label">平均Brier</div><div class="ts-val" style="color:var(--amber)">0.664</div></div>
     <div class="ts-chip"><div class="ts-label">总盈亏</div><div class="ts-val" style="color:var(--green)">&yen;+0</div></div>
   </div>
   <div class="results-table-wrap">
     <table class="results-table">
       <tr><th>比赛</th><th>比分</th><th>实际</th><th>预测</th><th>命中</th><th>Brier</th><th>盈亏</th></tr>
       
+        <tr class="miss">
+          <td>瓦勒伦加 vs 汉坎</td>
+          <td style="font-weight:800;text-align:center;">0-3</td>
+          <td>客胜</td>
+          <td>主胜 (69%)</td>
+          <td style="text-align:center;"><span class="result-icon miss">✗</span></td>
+          <td style="font-family:monospace;font-size:0.68rem;">1.261</td>
+          <td style="color:var(--dim);font-weight:600;">0</td>
+        </tr>
         <tr class="hit">
-          <td>本菲卡 vs 圣加仑</td>
-          <td style="font-weight:800;text-align:center;">5-0</td>
+          <td>博德闪耀 vs 利勒斯特</td>
+          <td style="font-weight:800;text-align:center;">4-0</td>
           <td>主胜</td>
-          <td>主胜 (49%)</td>
+          <td>主胜 (79%)</td>
           <td style="text-align:center;"><span class="result-icon hit">✓</span></td>
-          <td style="font-family:monospace;font-size:0.68rem;">0.405</td>
+          <td style="font-family:monospace;font-size:0.68rem;">0.068</td>
           <td style="color:var(--dim);font-weight:600;">0</td>
         </tr>
         <tr class="miss">
@@ -2236,6 +2245,15 @@ body {
           <td>主胜 (69%)</td>
           <td style="text-align:center;"><span class="result-icon miss">✗</span></td>
           <td style="font-family:monospace;font-size:0.68rem;">1.261</td>
+          <td style="color:var(--dim);font-weight:600;">0</td>
+        </tr>
+        <tr class="hit">
+          <td>博德闪耀 vs 利勒斯特</td>
+          <td style="font-weight:800;text-align:center;">4-0</td>
+          <td>主胜</td>
+          <td>主胜 (79%)</td>
+          <td style="text-align:center;"><span class="result-icon hit">✓</span></td>
+          <td style="font-family:monospace;font-size:0.68rem;">0.068</td>
           <td style="color:var(--dim);font-weight:600;">0</td>
         </tr>
     </table>
