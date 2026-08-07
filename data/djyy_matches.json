@@ -1,8 +1,8 @@
 {
   "source": "djyylive.com API v2",
-  "extracted_at": "2026-08-07T11:32:12.743546",
+  "extracted_at": "2026-08-07T12:28:49.532296",
   "total": 35,
-  "with_odds": 35,
+  "with_odds": 34,
   "matches": [
     {
       "fs_match_id": 19766284,
@@ -1007,91 +1007,19 @@
       "home_goals": "0",
       "away_goals": "1",
       "has_odds": true,
-      "home_odds_djyy": 2.95,
-      "draw_odds_djyy": 3.4100000000000006,
-      "away_odds_djyy": 2.24,
-      "djyy_model_prob": {
-        "home": 0.41159999999999997,
-        "draw": 0.2526,
-        "away": 0.33549999999999996
-      },
-      "odds_source": "DJYY/Pinnacle",
+      "home_odds_djyy": null,
+      "draw_odds_djyy": null,
+      "away_odds_djyy": null,
+      "djyy_model_prob": null,
+      "odds_source": null,
       "home_prematch_xg": null,
       "away_prematch_xg": null,
-      "btts_yes_odds": 1.72,
-      "btts_no_odds": 2.0,
+      "btts_yes_odds": null,
+      "btts_no_odds": null,
       "over_25_odds": null,
       "under_25_odds": null,
-      "top_scores": [
-        [
-          1,
-          1,
-          0.1149
-        ],
-        [
-          1,
-          0,
-          0.0901
-        ],
-        [
-          2,
-          1,
-          0.0874
-        ],
-        [
-          0,
-          1,
-          0.0809
-        ],
-        [
-          1,
-          2,
-          0.0759
-        ],
-        [
-          0,
-          0,
-          0.06709999999999999
-        ],
-        [
-          2,
-          0,
-          0.0641
-        ],
-        [
-          2,
-          2,
-          0.0557
-        ],
-        [
-          0,
-          2,
-          0.053
-        ],
-        [
-          3,
-          1,
-          0.0424
-        ]
-      ],
-      "totals": {
-        "1.5": [
-          0.23829999999999998,
-          0.7617
-        ],
-        "2.5": [
-          0.4704,
-          0.5296
-        ],
-        "3.5": [
-          0.6954,
-          0.3046
-        ],
-        "4.5": [
-          0.8268000000000001,
-          0.1732
-        ]
-      }
+      "top_scores": null,
+      "totals": null
     },
     {
       "fs_match_id": 19766286,
