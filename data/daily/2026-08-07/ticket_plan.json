@@ -1,0 +1,22 @@
+{
+  "stable": [
+    {
+      "match": "2026-08-13_周四001",
+      "sel": "away",
+      "odds": 1.43,
+      "stake": 9449.7
+    },
+    {
+      "match": "2026-08-13_周四005",
+      "sel": "home",
+      "odds": 1.39,
+      "stake": 9449.7
+    }
+  ],
+  "value": [],
+  "lottery": [],
+  "total_stake": 18899.4,
+  "expected_roi": -0.0467,
+  "bankroll": 118121.29140000012,
+  "breaker_multiplier": 1.0
+}
