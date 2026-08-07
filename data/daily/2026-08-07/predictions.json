@@ -5528,7 +5528,14 @@
       },
       "match_time": "2026-08-07 18:25:00"
     },
-    "kelly_edge": -0.0478
+    "kelly_edge": -0.0478,
+    "actual_result": "3-4",
+    "actual_home_score": 3,
+    "actual_away_score": 4,
+    "direction": "home",
+    "direction_correct": false,
+    "predicted_score": "1-1",
+    "score_correct": false
   },
   {
     "match_id": "2026-08-07_周五002",
@@ -5710,6 +5717,13 @@
       },
       "match_time": "2026-08-07 18:30:00"
     },
-    "kelly_edge": -0.048
+    "kelly_edge": -0.048,
+    "actual_result": "4-3",
+    "actual_home_score": 4,
+    "actual_away_score": 3,
+    "direction": "home",
+    "direction_correct": true,
+    "predicted_score": "2-0",
+    "score_correct": false
   }
 ]
