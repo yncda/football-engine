@@ -1,21 +1,9 @@
 {
   "stable": [
     {
-      "match": "2026-08-09_周日009",
+      "match": "2026-08-09_周日004",
       "sel": "away",
-      "odds": 1.32,
-      "stake": 9449.7
-    },
-    {
-      "match": "2026-08-07_周五005",
-      "sel": "away",
-      "odds": 1.46,
-      "stake": 9449.7
-    },
-    {
-      "match": "2026-08-08_周六003",
-      "sel": "home",
-      "odds": 1.5,
+      "odds": 1.53,
       "stake": 9449.7
     },
     {
@@ -23,13 +11,25 @@
       "sel": "home",
       "odds": 1.29,
       "stake": 9449.7
+    },
+    {
+      "match": "2026-08-09_周日010",
+      "sel": "away",
+      "odds": 1.58,
+      "stake": 9449.7
+    },
+    {
+      "match": "2026-08-08_周六018",
+      "sel": "home",
+      "odds": 1.51,
+      "stake": 9449.7
     }
   ],
   "value": [
     {
       "match": "2026-08-07_周五010",
       "sel": "away",
-      "odds": 1.84,
+      "odds": 1.83,
       "stake": 9449.7
     },
     {
@@ -41,7 +41,7 @@
   ],
   "lottery": [],
   "total_stake": 56698.2,
-  "expected_roi": -0.0456,
+  "expected_roi": -0.0472,
   "bankroll": 118121.29140000012,
   "breaker_multiplier": 1.0
 }
