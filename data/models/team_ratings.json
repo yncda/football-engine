@@ -376,10 +376,10 @@
     "rest_days": 3
   },
   "巴竞技": {
-    "elo": 1485.9,
-    "attack": 0.3587,
-    "defense": 0.814,
-    "form": -0.8022,
+    "elo": 1473.9,
+    "attack": 0.3237,
+    "defense": 0.8754,
+    "form": -0.8615,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -528,10 +528,10 @@
     "rest_days": 3
   },
   "维多利亚": {
-    "elo": 1783.2,
-    "attack": 0.9382,
-    "defense": 0.2592,
-    "form": 0.9807,
+    "elo": 1803.3,
+    "attack": 0.9967,
+    "defense": 0.2111,
+    "form": 0.9905,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1104,10 +1104,10 @@
     "rest_days": 3
   },
   "本菲卡": {
-    "elo": 1895.0,
-    "attack": 1.7339,
-    "defense": 0.3558,
-    "form": 0.9867,
+    "elo": 1897.7,
+    "attack": 1.776,
+    "defense": 0.3563,
+    "form": 0.9907,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2952,10 +2952,10 @@
     "rest_days": 3
   },
   "安德莱": {
-    "elo": 1686.3,
-    "attack": 0.5608,
-    "defense": 0.3427,
-    "form": 0.9152,
+    "elo": 1694.5,
+    "attack": 0.5413,
+    "defense": 0.3093,
+    "form": 0.9406,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4400,10 +4400,10 @@
     "rest_days": 3
   },
   "费内巴切": {
-    "elo": 1771.7,
-    "attack": 0.7224,
-    "defense": 0.2586,
-    "form": 0.9448,
+    "elo": 1778.0,
+    "attack": 0.7223,
+    "defense": 0.2334,
+    "form": 0.9614,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5120,10 +5120,10 @@
     "rest_days": 3
   },
   "塞萨洛": {
-    "elo": 1436.9,
-    "attack": 0.2961,
-    "defense": 0.5345,
-    "form": -0.9872,
+    "elo": 1422.0,
+    "attack": 0.2412,
+    "defense": 0.5023,
+    "form": -0.9937,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5592,10 +5592,10 @@
     "rest_days": 3
   },
   "克拉约瓦": {
-    "elo": 1505.7,
-    "attack": 0.6536,
-    "defense": 0.7126,
-    "form": -0.06,
+    "elo": 1508.0,
+    "attack": 0.6251,
+    "defense": 0.6783,
+    "form": -0.042,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5736,10 +5736,10 @@
     "rest_days": 3
   },
   "格风暴": {
-    "elo": 1473.7,
-    "attack": 0.3939,
-    "defense": 0.8541,
-    "form": -0.8748,
+    "elo": 1467.4,
+    "attack": 0.3555,
+    "defense": 0.8412,
+    "form": -0.9124,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6208,10 +6208,10 @@
     "rest_days": 3
   },
   "流浪者": {
-    "elo": 1359.9,
-    "attack": 0.4912,
-    "defense": 0.9297,
-    "form": -0.9958,
+    "elo": 1346.4,
+    "attack": 0.467,
+    "defense": 0.8911,
+    "form": -0.9979,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6336,10 +6336,10 @@
     "rest_days": 3
   },
   "萨巴赫": {
-    "elo": 1454.0,
-    "attack": 0.6571,
-    "defense": 0.7786,
-    "form": -0.9004,
+    "elo": 1445.5,
+    "attack": 0.6282,
+    "defense": 0.7731,
+    "form": -0.9303,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6400,10 +6400,10 @@
     "rest_days": 3
   },
   "弗鲁米嫩": {
-    "elo": 1401.6,
-    "attack": 0.5225,
-    "defense": 0.8832,
-    "form": -0.916,
+    "elo": 1388.5,
+    "attack": 0.5067,
+    "defense": 0.9026,
+    "form": -0.9412,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6504,18 +6504,18 @@
     "rest_days": 3
   },
   "比亚韦": {
-    "elo": 1484.1,
-    "attack": 0.809,
-    "defense": 0.8316,
-    "form": 0.793,
+    "elo": 1492.2,
+    "attack": 0.8005,
+    "defense": 0.7857,
+    "form": 0.8551,
     "injury": 0.0,
     "rest_days": 3
   },
   "哈茨": {
-    "elo": 1284.9,
-    "attack": 0.4226,
-    "defense": 1.5713,
-    "form": -0.9952,
+    "elo": 1282.2,
+    "attack": 0.4166,
+    "defense": 1.6292,
+    "form": -0.9966,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6816,10 +6816,10 @@
     "rest_days": 3
   },
   "库奥皮奥": {
-    "elo": 1491.3,
-    "attack": 0.4793,
-    "defense": 0.4238,
-    "form": 0.0021,
+    "elo": 1487.5,
+    "attack": 0.4573,
+    "defense": 0.4121,
+    "form": 0.001,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6856,10 +6856,10 @@
     "rest_days": 3
   },
   "奥胡斯": {
-    "elo": 1566.9,
-    "attack": 0.7055,
-    "defense": 0.5002,
-    "form": 0.9572,
+    "elo": 1575.4,
+    "attack": 0.7071,
+    "defense": 0.4866,
+    "form": 0.97,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7280,10 +7280,10 @@
     "rest_days": 3
   },
   "巴拉纳竞技": {
-    "elo": 1473.2,
-    "attack": 0.2627,
-    "defense": 0.6846,
-    "form": -0.8983,
+    "elo": 1465.1,
+    "attack": 0.2371,
+    "defense": 0.7234,
+    "form": -0.9288,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7704,10 +7704,10 @@
     "rest_days": 3
   },
   "安德莱赫特": {
-    "elo": 1724.7,
-    "attack": 0.6057,
-    "defense": 0.241,
-    "form": 0.9952,
+    "elo": 1731.4,
+    "attack": 0.5818,
+    "defense": 0.2175,
+    "form": 0.9966,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9544,26 +9544,26 @@
     "rest_days": 3
   },
   "克拉瓦约": {
-    "elo": 1520.9,
-    "attack": 0.6726,
-    "defense": 0.6726,
+    "elo": 1522.4,
+    "attack": 0.6422,
+    "defense": 0.6422,
     "form": 0.0,
     "injury": 0.0,
     "rest_days": 3
   },
   "比亚韦斯托克": {
-    "elo": 1561.8,
-    "attack": 0.8575,
-    "defense": 0.6726,
-    "form": 0.9176,
+    "elo": 1567.3,
+    "attack": 0.8443,
+    "defense": 0.6422,
+    "form": 0.9423,
     "injury": 0.0,
     "rest_days": 3
   },
   "达伽马": {
-    "elo": 1678.9,
-    "attack": 1.0424,
-    "defense": 0.6726,
-    "form": 0.9176,
+    "elo": 1692.0,
+    "attack": 1.0463,
+    "defense": 0.6422,
+    "form": 0.9423,
     "injury": 0.0,
     "rest_days": 3
   }
