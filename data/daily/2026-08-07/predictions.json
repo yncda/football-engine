@@ -4,22 +4,22 @@
     "competition": "日职",
     "home_team": "横滨水手",
     "away_team": "鹿岛鹿角",
-    "home_win_prob": 0.4461,
-    "draw_prob": 0.2408,
-    "away_win_prob": 0.3131,
+    "home_win_prob": 0.4456,
+    "draw_prob": 0.2414,
+    "away_win_prob": 0.313,
     "home_xg": 1.928,
     "away_xg": 1.301,
     "home_odds": 2.14,
-    "draw_odds": 3.95,
+    "draw_odds": 3.94,
     "away_odds": 3.04,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.1691,
+    "confidence": 0.1688,
     "wilson_trust": 0.3286,
     "model_raw": {
-      "home": 0.5146,
-      "draw": 0.2325,
-      "away": 0.253
+      "home": 0.5137,
+      "draw": 0.2335,
+      "away": 0.2528
     },
     "market_fair": null,
     "top_scores": [
@@ -156,7 +156,7 @@
         "draw": 1.0,
         "away": 0.884
       },
-      "odds_history_count": 8,
+      "odds_history_count": 9,
       "asia": {
         "company": "威*",
         "initial": {
@@ -167,7 +167,7 @@
         "current": {
           "home": 1.75,
           "handicap": "+0/0.5",
-          "away": 1.88
+          "away": 1.86
         }
       },
       "totals": {
@@ -180,102 +180,102 @@
         "current": {
           "over": 2.25,
           "line": "2.5",
-          "under": 1.57
+          "under": 1.6
         }
       },
       "match_time": "2026-08-07 18:25:00"
     },
-    "kelly_edge": -0.0453
+    "kelly_edge": -0.0464
   },
   {
     "match_id": "2026-08-07_周五002",
     "competition": "日职",
     "home_team": "大阪钢巴",
     "away_team": "浦和红钻",
-    "home_win_prob": 0.6819,
-    "draw_prob": 0.1992,
-    "away_win_prob": 0.1189,
+    "home_win_prob": 0.6791,
+    "draw_prob": 0.2008,
+    "away_win_prob": 0.12,
     "home_xg": 2.35,
     "away_xg": 0.774,
     "home_odds": 1.4,
-    "draw_odds": 4.78,
-    "away_odds": 8.01,
+    "draw_odds": 4.74,
+    "away_odds": 7.93,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.326,
+    "confidence": 0.3247,
     "wilson_trust": 0.4514,
     "model_raw": {
-      "home": 0.7223,
-      "draw": 0.1784,
-      "away": 0.0993
+      "home": 0.7194,
+      "draw": 0.1802,
+      "away": 0.1004
     },
     "market_fair": null,
     "top_scores": [
       [
         2,
         0,
-        0.1071
+        0.1036
       ],
       [
         2,
         1,
-        0.0924
+        0.0944
       ],
       [
         3,
         0,
-        0.092
+        0.0904
       ],
       [
         1,
         0,
-        0.0837
+        0.0821
       ],
       [
         3,
         1,
-        0.0792
+        0.0784
       ],
       [
         1,
         1,
-        0.0708
+        0.0721
       ],
       [
         4,
         0,
-        0.059
+        0.0579
       ],
       [
         4,
         1,
-        0.0499
+        0.0506
       ]
     ],
     "total_goals": [
       [
         3,
-        0.2197
+        0.2209
       ],
       [
         2,
-        0.1896
+        0.188
       ],
       [
         4,
-        0.1874
+        0.1879
       ],
       [
         5,
-        0.1294
+        0.1288
       ],
       [
         1,
-        0.1109
+        0.11
       ],
       [
         6,
-        0.0731
+        0.0732
       ]
     ],
     "htft": {
@@ -338,7 +338,7 @@
         "draw": 1.0,
         "away": 1.022
       },
-      "odds_history_count": 7,
+      "odds_history_count": 8,
       "asia": {
         "company": "威*",
         "initial": {
@@ -347,9 +347,9 @@
           "away": 1.76
         },
         "current": {
-          "home": 1.96,
+          "home": 1.97,
           "handicap": "-0/0.5",
-          "away": 1.69
+          "away": 1.68
         }
       },
       "totals": {
@@ -360,104 +360,104 @@
           "under": 1.75
         },
         "current": {
-          "over": 2.05,
+          "over": 2.0,
           "line": "2.5",
-          "under": 1.7
+          "under": 1.73
         }
       },
       "match_time": "2026-08-07 18:30:00"
     },
-    "kelly_edge": -0.0453
+    "kelly_edge": -0.0482
   },
   {
     "match_id": "2026-08-07_周五003",
     "competition": "芬超",
     "home_team": "塞伊奈",
     "away_team": "赫尔辛基火花",
-    "home_win_prob": 0.1553,
-    "draw_prob": 0.2119,
-    "away_win_prob": 0.6328,
+    "home_win_prob": 0.1562,
+    "draw_prob": 0.2117,
+    "away_win_prob": 0.6321,
     "home_xg": 1.067,
     "away_xg": 2.368,
-    "home_odds": 6.13,
+    "home_odds": 6.1,
     "draw_odds": 4.5,
     "away_odds": 1.51,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.2535,
+    "confidence": 0.2532,
     "wilson_trust": 0.3876,
     "model_raw": {
-      "home": 0.1428,
-      "draw": 0.2032,
-      "away": 0.6539
+      "home": 0.1437,
+      "draw": 0.2031,
+      "away": 0.6532
     },
     "market_fair": null,
     "top_scores": [
       [
         0,
         1,
-        0.2008
+        0.1978
       ],
       [
         0,
         2,
-        0.1534
+        0.1502
       ],
       [
         0,
         0,
-        0.1328
+        0.1333
       ],
       [
         1,
         1,
-        0.1045
+        0.1029
       ],
       [
         1,
         2,
-        0.0775
+        0.0789
       ],
       [
         0,
         3,
-        0.0755
+        0.0778
       ],
       [
         1,
         0,
-        0.0671
+        0.0668
       ],
       [
         1,
         3,
-        0.0377
+        0.0384
       ]
     ],
     "total_goals": [
       [
         2,
-        0.2748
+        0.2701
       ],
       [
         1,
-        0.2679
+        0.2646
       ],
       [
         3,
-        0.1813
+        0.1868
       ],
       [
         0,
-        0.1328
+        0.1333
       ],
       [
         4,
-        0.09
+        0.0909
       ],
       [
         5,
-        0.036
+        0.0371
       ]
     ],
     "htft": {
@@ -549,97 +549,97 @@
       },
       "match_time": "2026-08-08 00:00:00"
     },
-    "kelly_edge": -0.0445
+    "kelly_edge": -0.0455
   },
   {
     "match_id": "2026-08-07_周五004",
     "competition": "挪超",
     "home_team": "桑纳菲",
     "away_team": "奥斯KFUM",
-    "home_win_prob": 0.3098,
-    "draw_prob": 0.2921,
-    "away_win_prob": 0.398,
+    "home_win_prob": 0.3127,
+    "draw_prob": 0.2903,
+    "away_win_prob": 0.397,
     "home_xg": 1.104,
     "away_xg": 1.252,
-    "home_odds": 3.07,
-    "draw_odds": 3.26,
-    "away_odds": 2.39,
+    "home_odds": 3.05,
+    "draw_odds": 3.28,
+    "away_odds": 2.4,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.0875,
+    "confidence": 0.0872,
     "wilson_trust": 0.2247,
     "model_raw": {
-      "home": 0.3155,
-      "draw": 0.2951,
-      "away": 0.3894
+      "home": 0.3188,
+      "draw": 0.293,
+      "away": 0.3882
     },
     "market_fair": null,
     "top_scores": [
       [
         1,
         1,
-        0.1328
+        0.1295
       ],
       [
         0,
         1,
-        0.1121
+        0.111
       ],
       [
         1,
         0,
-        0.1087
+        0.1108
       ],
       [
         0,
         0,
-        0.0933
+        0.0938
       ],
       [
         1,
         2,
-        0.0789
+        0.0798
       ],
       [
         2,
         1,
-        0.0747
+        0.0766
       ],
       [
         0,
         2,
-        0.0687
+        0.0696
       ],
       [
         2,
         0,
-        0.0623
+        0.0635
       ]
     ],
     "total_goals": [
       [
         2,
-        0.2638
+        0.2626
       ],
       [
         1,
-        0.2208
+        0.2218
       ],
       [
         3,
-        0.2065
+        0.21
       ],
       [
         4,
-        0.123
+        0.1209
       ],
       [
         0,
-        0.0933
+        0.0938
       ],
       [
         5,
-        0.0579
+        0.0576
       ]
     ],
     "htft": {
@@ -731,97 +731,97 @@
       },
       "match_time": "2026-08-08 01:00:00"
     },
-    "kelly_edge": -0.0478
+    "kelly_edge": -0.0463
   },
   {
     "match_id": "2026-08-07_周五005",
     "competition": "荷甲",
     "home_team": "坎布尔",
     "away_team": "SBV精英",
-    "home_win_prob": 0.1359,
-    "draw_prob": 0.2113,
-    "away_win_prob": 0.6528,
+    "home_win_prob": 0.1333,
+    "draw_prob": 0.2104,
+    "away_win_prob": 0.6563,
     "home_xg": 0.899,
     "away_xg": 2.369,
-    "home_odds": 7.01,
-    "draw_odds": 4.51,
-    "away_odds": 1.46,
+    "home_odds": 7.14,
+    "draw_odds": 4.53,
+    "away_odds": 1.45,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.2681,
+    "confidence": 0.2695,
     "wilson_trust": 0.3876,
     "model_raw": {
-      "home": 0.1163,
-      "draw": 0.192,
-      "away": 0.6917
+      "home": 0.1137,
+      "draw": 0.1909,
+      "away": 0.6954
     },
     "market_fair": null,
     "top_scores": [
       [
         1,
-        2,
-        0.0803
+        3,
+        0.0816
       ],
       [
         1,
+        2,
+        0.0805
+      ],
+      [
+        0,
         3,
-        0.0792
+        0.0622
+      ],
+      [
+        0,
+        2,
+        0.0594
       ],
       [
         1,
         4,
-        0.0606
-      ],
-      [
-        0,
-        2,
-        0.0599
-      ],
-      [
-        0,
-        3,
-        0.0596
-      ],
-      [
-        1,
-        1,
-        0.0528
-      ],
-      [
-        2,
-        2,
-        0.0528
+        0.0588
       ],
       [
         2,
         3,
-        0.0503
+        0.0529
+      ],
+      [
+        1,
+        1,
+        0.052
+      ],
+      [
+        2,
+        2,
+        0.0516
       ]
     ],
     "total_goals": [
       [
         4,
-        0.1922
+        0.1944
       ],
       [
         3,
-        0.1792
+        0.1796
       ],
       [
         5,
-        0.1662
+        0.1653
       ],
       [
         2,
-        0.1253
+        0.1228
       ],
       [
         6,
-        0.1215
+        0.1195
       ],
       [
         7,
-        0.0741
+        0.0752
       ]
     ],
     "htft": {
@@ -920,90 +920,90 @@
     "competition": "荷乙",
     "home_team": "奥斯",
     "away_team": "布雷达",
-    "home_win_prob": 0.5716,
-    "draw_prob": 0.2425,
-    "away_win_prob": 0.1859,
+    "home_win_prob": 0.5701,
+    "draw_prob": 0.2443,
+    "away_win_prob": 0.1856,
     "home_xg": 1.877,
     "away_xg": 0.891,
     "home_odds": 1.67,
-    "draw_odds": 3.93,
-    "away_odds": 5.12,
+    "draw_odds": 3.9,
+    "away_odds": 5.13,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.1945,
+    "confidence": 0.1939,
     "wilson_trust": 0.3286,
     "model_raw": {
-      "home": 0.5918,
-      "draw": 0.2347,
-      "away": 0.1735
+      "home": 0.5901,
+      "draw": 0.2367,
+      "away": 0.1732
     },
     "market_fair": null,
     "top_scores": [
       [
         2,
         0,
-        0.1126
-      ],
-      [
-        1,
-        0,
-        0.0985
+        0.1135
       ],
       [
         2,
         1,
-        0.0948
+        0.0964
+      ],
+      [
+        1,
+        0,
+        0.0947
       ],
       [
         3,
         0,
-        0.0877
+        0.0883
       ],
       [
         1,
         1,
-        0.0807
+        0.0832
       ],
       [
         3,
         1,
-        0.0766
+        0.0737
       ],
       [
         4,
         0,
-        0.0518
+        0.052
       ],
       [
         4,
         1,
-        0.0424
+        0.043
       ]
     ],
     "total_goals": [
       [
         3,
-        0.2216
+        0.2235
       ],
       [
         2,
-        0.2088
+        0.2121
       ],
       [
         4,
-        0.1781
+        0.1745
       ],
       [
         1,
-        0.1334
+        0.1294
       ],
       [
         5,
-        0.1121
+        0.1139
       ],
       [
         6,
-        0.0605
+        0.0596
       ]
     ],
     "htft": {
@@ -1075,9 +1075,9 @@
           "away": 1.92
         },
         "current": {
-          "home": 1.87,
+          "home": 1.93,
           "handicap": "+0.5/1",
-          "away": 1.84
+          "away": 1.79
         }
       },
       "totals": {
@@ -1090,51 +1090,51 @@
         "current": {
           "over": 2.3,
           "line": "3.5",
-          "under": 1.55
+          "under": 1.57
         }
       },
       "match_time": "2026-08-08 02:00:00"
     },
-    "kelly_edge": -0.0454
+    "kelly_edge": -0.0472
   },
   {
     "match_id": "2026-08-07_周五007",
     "competition": "荷乙",
     "home_team": "埃门",
     "away_team": "罗达JC",
-    "home_win_prob": 0.2438,
-    "draw_prob": 0.2861,
-    "away_win_prob": 0.47,
+    "home_win_prob": 0.244,
+    "draw_prob": 0.285,
+    "away_win_prob": 0.471,
     "home_xg": 1.026,
     "away_xg": 1.522,
-    "home_odds": 3.91,
-    "draw_odds": 3.33,
-    "away_odds": 2.03,
+    "home_odds": 3.9,
+    "draw_odds": 3.34,
+    "away_odds": 2.02,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.13,
+    "confidence": 0.1303,
     "wilson_trust": 0.2742,
     "model_raw": {
-      "home": 0.2391,
-      "draw": 0.2868,
-      "away": 0.4741
+      "home": 0.2393,
+      "draw": 0.2855,
+      "away": 0.4752
     },
     "market_fair": null,
     "top_scores": [
       [
         1,
         2,
-        0.0877
+        0.0879
       ],
       [
         1,
         1,
-        0.0868
+        0.0865
       ],
       [
         2,
         2,
-        0.0693
+        0.0672
       ],
       [
         2,
@@ -1144,32 +1144,32 @@
       [
         1,
         3,
-        0.0618
+        0.0608
       ],
       [
         0,
         2,
-        0.0587
+        0.0588
       ],
       [
         0,
         1,
-        0.0571
+        0.0584
       ],
       [
         2,
         3,
-        0.0464
+        0.0477
       ]
     ],
     "total_goals": [
       [
         3,
-        0.2105
+        0.2136
       ],
       [
         4,
-        0.192
+        0.1875
       ],
       [
         2,
@@ -1177,15 +1177,15 @@
       ],
       [
         5,
-        0.1361
+        0.1379
       ],
       [
         1,
-        0.0995
+        0.0999
       ],
       [
         6,
-        0.0843
+        0.0826
       ]
     ],
     "htft": {
@@ -1257,9 +1257,9 @@
           "away": 1.77
         },
         "current": {
-          "home": 1.96,
+          "home": 1.95,
           "handicap": "-0/0.5",
-          "away": 1.77
+          "away": 1.76
         }
       },
       "totals": {
@@ -1277,29 +1277,29 @@
       },
       "match_time": "2026-08-08 02:00:00"
     },
-    "kelly_edge": -0.0459
+    "kelly_edge": -0.0481
   },
   {
     "match_id": "2026-08-07_周五008",
     "competition": "德乙",
     "home_team": "波鸿",
     "away_team": "柏林赫塔",
-    "home_win_prob": 0.2631,
-    "draw_prob": 0.2705,
-    "away_win_prob": 0.4664,
+    "home_win_prob": 0.2635,
+    "draw_prob": 0.2708,
+    "away_win_prob": 0.4656,
     "home_xg": 0.938,
     "away_xg": 1.521,
-    "home_odds": 3.62,
+    "home_odds": 3.61,
     "draw_odds": 3.52,
-    "away_odds": 2.04,
+    "away_odds": 2.05,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.1654,
+    "confidence": 0.165,
     "wilson_trust": 0.3286,
     "model_raw": {
-      "home": 0.2201,
-      "draw": 0.2765,
-      "away": 0.5034
+      "home": 0.2208,
+      "draw": 0.2771,
+      "away": 0.502
     },
     "market_fair": null,
     "top_scores": [
@@ -1445,9 +1445,9 @@
           "away": 1.79
         },
         "current": {
-          "home": 1.93,
+          "home": 1.98,
           "handicap": "-0/0.5",
-          "away": 1.79
+          "away": 1.74
         }
       },
       "totals": {
@@ -1465,97 +1465,97 @@
       },
       "match_time": "2026-08-08 02:30:00"
     },
-    "kelly_edge": -0.0476
+    "kelly_edge": -0.0455
   },
   {
     "match_id": "2026-08-07_周五009",
     "competition": "英联杯",
     "home_team": "米堡",
     "away_team": "雷克斯",
-    "home_win_prob": 0.1613,
-    "draw_prob": 0.2527,
-    "away_win_prob": 0.586,
+    "home_win_prob": 0.1621,
+    "draw_prob": 0.2514,
+    "away_win_prob": 0.5866,
     "home_xg": 0.841,
     "away_xg": 1.788,
-    "home_odds": 5.9,
-    "draw_odds": 3.77,
-    "away_odds": 1.63,
+    "home_odds": 5.88,
+    "draw_odds": 3.79,
+    "away_odds": 1.62,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.1929,
+    "confidence": 0.1931,
     "wilson_trust": 0.3286,
     "model_raw": {
-      "home": 0.1678,
-      "draw": 0.2452,
-      "away": 0.587
+      "home": 0.1686,
+      "draw": 0.2437,
+      "away": 0.5877
     },
     "market_fair": null,
     "top_scores": [
       [
         0,
         2,
-        0.1118
+        0.1152
       ],
       [
         0,
         1,
-        0.1078
+        0.1077
       ],
       [
         1,
         2,
-        0.099
+        0.0983
       ],
       [
         1,
         1,
-        0.0925
+        0.0914
       ],
       [
         0,
         3,
-        0.0783
+        0.0799
       ],
       [
         1,
         3,
-        0.0699
+        0.0707
       ],
       [
         0,
         0,
-        0.0515
+        0.0504
       ],
       [
+        1,
         0,
-        4,
-        0.0428
+        0.0442
       ]
     ],
     "total_goals": [
       [
         2,
-        0.223
+        0.2251
       ],
       [
         3,
-        0.2209
+        0.2244
       ],
       [
         4,
-        0.1689
+        0.1657
       ],
       [
         1,
-        0.1498
+        0.152
       ],
       [
         5,
-        0.1019
+        0.0992
       ],
       [
         0,
-        0.0515
+        0.0504
       ]
     ],
     "htft": {
@@ -1647,29 +1647,29 @@
       },
       "match_time": "2026-08-08 03:00:00"
     },
-    "kelly_edge": -0.0448
+    "kelly_edge": -0.0469
   },
   {
     "match_id": "2026-08-07_周五010",
     "competition": "葡超",
     "home_team": "埃斯托里",
     "away_team": "法马利康",
-    "home_win_prob": 0.2402,
-    "draw_prob": 0.2416,
-    "away_win_prob": 0.5181,
+    "home_win_prob": 0.2396,
+    "draw_prob": 0.2409,
+    "away_win_prob": 0.5195,
     "home_xg": 1.05,
     "away_xg": 2.094,
-    "home_odds": 3.96,
-    "draw_odds": 3.94,
-    "away_odds": 1.84,
+    "home_odds": 3.97,
+    "draw_odds": 3.95,
+    "away_odds": 1.83,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.2341,
+    "confidence": 0.235,
     "wilson_trust": 0.3876,
     "model_raw": {
-      "home": 0.1772,
-      "draw": 0.2188,
-      "away": 0.604
+      "home": 0.1761,
+      "draw": 0.2175,
+      "away": 0.6063
     },
     "market_fair": null,
     "top_scores": [
@@ -1835,29 +1835,29 @@
       },
       "match_time": "2026-08-08 03:15:00"
     },
-    "kelly_edge": -0.0467
+    "kelly_edge": -0.0484
   },
   {
     "match_id": "2026-08-08_周六001",
     "competition": "日职",
     "home_team": "大阪樱花",
     "away_team": "冈山绿雉",
-    "home_win_prob": 0.5727,
-    "draw_prob": 0.2004,
-    "away_win_prob": 0.2269,
+    "home_win_prob": 0.573,
+    "draw_prob": 0.2,
+    "away_win_prob": 0.227,
     "home_xg": 3.303,
     "away_xg": 1.941,
     "home_odds": 1.66,
-    "draw_odds": 4.75,
-    "away_odds": 4.2,
+    "draw_odds": 4.76,
+    "away_odds": 4.19,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.2484,
+    "confidence": 0.2486,
     "wilson_trust": 0.3876,
     "model_raw": {
-      "home": 0.6409,
-      "draw": 0.1572,
-      "away": 0.2019
+      "home": 0.6413,
+      "draw": 0.1565,
+      "away": 0.2021
     },
     "market_fair": null,
     "top_scores": [
@@ -1974,97 +1974,97 @@
     "draw_alert": null,
     "kickoff": "",
     "sina_odds": null,
-    "kelly_edge": -0.047
+    "kelly_edge": -0.048
   },
   {
     "match_id": "2026-08-08_周六002",
     "competition": "日职乙",
     "home_team": "大宫松鼠RB",
     "away_team": "新潟天鹅",
-    "home_win_prob": 0.4121,
-    "draw_prob": 0.257,
-    "away_win_prob": 0.3309,
+    "home_win_prob": 0.4133,
+    "draw_prob": 0.2561,
+    "away_win_prob": 0.3305,
     "home_xg": 1.586,
     "away_xg": 1.435,
-    "home_odds": 2.31,
-    "draw_odds": 3.71,
+    "home_odds": 2.3,
+    "draw_odds": 3.72,
     "away_odds": 2.88,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.1112,
+    "confidence": 0.1116,
     "wilson_trust": 0.2742,
     "model_raw": {
-      "home": 0.4056,
-      "draw": 0.2548,
-      "away": 0.3395
+      "home": 0.4071,
+      "draw": 0.2538,
+      "away": 0.3391
     },
     "market_fair": null,
     "top_scores": [
       [
         1,
         1,
-        0.1193
+        0.1154
       ],
       [
         2,
         1,
-        0.0885
+        0.0906
       ],
       [
         1,
         0,
-        0.0859
-      ],
-      [
-        1,
-        2,
-        0.0792
+        0.0866
       ],
       [
         0,
         1,
-        0.0781
+        0.0815
+      ],
+      [
+        1,
+        2,
+        0.0764
       ],
       [
         2,
         0,
-        0.0659
-      ],
-      [
-        0,
-        0,
-        0.0596
+        0.0657
       ],
       [
         2,
         2,
-        0.0577
+        0.0599
+      ],
+      [
+        0,
+        0,
+        0.0579
       ]
     ],
     "total_goals": [
       [
         2,
-        0.2386
+        0.2345
       ],
       [
         3,
-        0.2237
+        0.2223
       ],
       [
         1,
-        0.164
+        0.1681
       ],
       [
         4,
-        0.1575
+        0.1576
       ],
       [
         5,
-        0.0882
+        0.0914
       ],
       [
         0,
-        0.0596
+        0.0579
       ]
     ],
     "htft": {
@@ -2107,97 +2107,97 @@
     "draw_alert": null,
     "kickoff": "",
     "sina_odds": null,
-    "kelly_edge": -0.0465
+    "kelly_edge": -0.0473
   },
   {
     "match_id": "2026-08-08_周六003",
     "competition": "K1联赛",
     "home_team": "安养FC",
     "away_team": "大田市民",
-    "home_win_prob": 0.6388,
-    "draw_prob": 0.2254,
-    "away_win_prob": 0.1359,
+    "home_win_prob": 0.6368,
+    "draw_prob": 0.2263,
+    "away_win_prob": 0.1369,
     "home_xg": 2.131,
     "away_xg": 0.822,
-    "home_odds": 1.49,
-    "draw_odds": 4.23,
-    "away_odds": 7.01,
+    "home_odds": 1.5,
+    "draw_odds": 4.21,
+    "away_odds": 6.96,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.2584,
+    "confidence": 0.2576,
     "wilson_trust": 0.3876,
     "model_raw": {
-      "home": 0.6667,
-      "draw": 0.2133,
-      "away": 0.12
+      "home": 0.6645,
+      "draw": 0.2144,
+      "away": 0.1211
     },
     "market_fair": null,
     "top_scores": [
       [
         1,
         0,
-        0.2268
+        0.2233
       ],
       [
         2,
         0,
-        0.1622
+        0.1635
       ],
       [
         0,
         0,
-        0.1543
+        0.1563
       ],
       [
         1,
         1,
-        0.0944
+        0.0949
       ],
       [
         3,
         0,
-        0.0788
+        0.078
       ],
       [
         2,
         1,
-        0.0691
+        0.0674
       ],
       [
         0,
         1,
-        0.0635
+        0.0659
       ],
       [
         3,
         1,
-        0.0325
+        0.0323
       ]
     ],
     "total_goals": [
       [
         1,
-        0.2903
+        0.2892
       ],
       [
         2,
-        0.27
+        0.2716
       ],
       [
         3,
-        0.1684
+        0.1661
       ],
       [
         0,
-        0.1543
+        0.1563
       ],
       [
         4,
-        0.0756
+        0.077
       ],
       [
         5,
-        0.029
+        0.0278
       ]
     ],
     "htft": {
@@ -2240,29 +2240,29 @@
     "draw_alert": null,
     "kickoff": "",
     "sina_odds": null,
-    "kelly_edge": -0.0466
+    "kelly_edge": -0.0448
   },
   {
     "match_id": "2026-08-08_周六004",
     "competition": "K1联赛",
     "home_team": "全北现代",
     "away_team": "济州SK",
-    "home_win_prob": 0.3738,
-    "draw_prob": 0.2986,
-    "away_win_prob": 0.3277,
+    "home_win_prob": 0.373,
+    "draw_prob": 0.2984,
+    "away_win_prob": 0.3285,
     "home_xg": 1.326,
     "away_xg": 1.666,
     "home_odds": 2.55,
     "draw_odds": 3.19,
-    "away_odds": 2.91,
+    "away_odds": 2.9,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.0875,
+    "confidence": 0.0878,
     "wilson_trust": 0.2247,
     "model_raw": {
-      "home": 0.2908,
-      "draw": 0.3198,
-      "away": 0.3894
+      "home": 0.2896,
+      "draw": 0.3196,
+      "away": 0.3909
     },
     "market_fair": null,
     "top_scores": [
@@ -2379,97 +2379,97 @@
     "draw_alert": null,
     "kickoff": "",
     "sina_odds": null,
-    "kelly_edge": -0.0464
+    "kelly_edge": -0.0474
   },
   {
     "match_id": "2026-08-08_周六005",
     "competition": "K1联赛",
     "home_team": "金泉尚武",
     "away_team": "首尔FC",
-    "home_win_prob": 0.6991,
-    "draw_prob": 0.1682,
-    "away_win_prob": 0.1327,
+    "home_win_prob": 0.699,
+    "draw_prob": 0.1683,
+    "away_win_prob": 0.1328,
     "home_xg": 2.793,
     "away_xg": 1.106,
     "home_odds": 1.36,
     "draw_odds": 5.66,
-    "away_odds": 7.18,
+    "away_odds": 7.17,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.331,
+    "confidence": 0.3309,
     "wilson_trust": 0.4514,
     "model_raw": {
-      "home": 0.7333,
-      "draw": 0.1512,
-      "away": 0.1155
+      "home": 0.7331,
+      "draw": 0.1513,
+      "away": 0.1156
     },
     "market_fair": null,
     "top_scores": [
       [
         2,
         0,
-        0.2061
+        0.2044
       ],
       [
         1,
         0,
-        0.1833
+        0.1837
       ],
       [
         3,
         0,
-        0.1535
+        0.1532
+      ],
+      [
+        0,
+        0,
+        0.0844
       ],
       [
         4,
         0,
-        0.0859
-      ],
-      [
-        0,
-        0,
-        0.0801
+        0.0839
       ],
       [
         2,
         1,
-        0.0545
+        0.056
       ],
       [
         1,
         1,
-        0.0492
+        0.047
       ],
       [
         3,
         1,
-        0.0402
+        0.0423
       ]
     ],
     "total_goals": [
       [
         2,
-        0.2584
+        0.2541
       ],
       [
         3,
-        0.2147
+        0.2163
       ],
       [
         1,
-        0.2043
+        0.2048
       ],
       [
         4,
-        0.1353
+        0.1335
       ],
       [
         0,
-        0.0801
+        0.0844
       ],
       [
         5,
-        0.0656
+        0.0655
       ]
     ],
     "htft": {
@@ -2512,97 +2512,97 @@
     "draw_alert": null,
     "kickoff": "",
     "sina_odds": null,
-    "kelly_edge": -0.0472
+    "kelly_edge": -0.0474
   },
   {
     "match_id": "2026-08-08_周六007",
     "competition": "英联杯",
     "home_team": "女王巡游",
     "away_team": "米尔沃尔",
-    "home_win_prob": 0.1738,
+    "home_win_prob": 0.1728,
     "draw_prob": 0.238,
-    "away_win_prob": 0.5882,
+    "away_win_prob": 0.5892,
     "home_xg": 0.891,
     "away_xg": 1.942,
-    "home_odds": 5.48,
+    "home_odds": 5.51,
     "draw_odds": 4.0,
     "away_odds": 1.62,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.2367,
+    "confidence": 0.2371,
     "wilson_trust": 0.3876,
     "model_raw": {
-      "home": 0.1603,
+      "home": 0.1592,
       "draw": 0.2291,
-      "away": 0.6106
+      "away": 0.6118
     },
     "market_fair": null,
     "top_scores": [
       [
         0,
         2,
-        0.1005
+        0.102
       ],
       [
         1,
         2,
-        0.0959
+        0.0992
       ],
       [
         0,
         1,
-        0.0914
+        0.0929
       ],
       [
         1,
         1,
-        0.0899
+        0.0894
       ],
       [
         0,
         3,
-        0.0758
+        0.0737
       ],
       [
         1,
         3,
-        0.0712
+        0.073
       ],
       [
         2,
         2,
-        0.0485
+        0.0491
       ],
       [
-        2,
-        1,
-        0.0436
+        0,
+        4,
+        0.0424
       ]
     ],
     "total_goals": [
       [
         3,
-        0.2214
+        0.2205
       ],
       [
         2,
-        0.2102
+        0.2097
       ],
       [
         4,
-        0.176
+        0.1804
       ],
       [
         1,
-        0.1335
+        0.1352
       ],
       [
         5,
-        0.114
+        0.1121
       ],
       [
         6,
-        0.0594
+        0.0592
       ]
     ],
     "htft": {
@@ -2645,61 +2645,61 @@
     "draw_alert": null,
     "kickoff": "",
     "sina_odds": null,
-    "kelly_edge": -0.0471
+    "kelly_edge": -0.0455
   },
   {
     "match_id": "2026-08-08_周六009",
     "competition": "英联杯",
     "home_team": "西汉姆联",
     "away_team": "朴次茅斯",
-    "home_win_prob": 0.4847,
-    "draw_prob": 0.2505,
-    "away_win_prob": 0.2648,
+    "home_win_prob": 0.484,
+    "draw_prob": 0.2511,
+    "away_win_prob": 0.2649,
     "home_xg": 1.754,
     "away_xg": 1.231,
-    "home_odds": 1.96,
-    "draw_odds": 3.8,
+    "home_odds": 1.97,
+    "draw_odds": 3.79,
     "away_odds": 3.6,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.1347,
+    "confidence": 0.1345,
     "wilson_trust": 0.2742,
     "model_raw": {
-      "home": 0.4914,
-      "draw": 0.2463,
-      "away": 0.2623
+      "home": 0.4906,
+      "draw": 0.247,
+      "away": 0.2624
     },
     "market_fair": null,
     "top_scores": [
       [
         1,
         1,
-        0.1095
+        0.1114
       ],
       [
         2,
         1,
-        0.093
+        0.0935
       ],
       [
         1,
         0,
-        0.0838
-      ],
-      [
-        1,
-        2,
-        0.0726
+        0.0819
       ],
       [
         2,
         0,
-        0.0707
+        0.0721
+      ],
+      [
+        1,
+        2,
+        0.0721
       ],
       [
         0,
         1,
-        0.0653
+        0.0683
       ],
       [
         2,
@@ -2709,33 +2709,33 @@
       [
         3,
         1,
-        0.0529
+        0.0525
       ]
     ],
     "total_goals": [
       [
-        3,
-        0.2242
+        2,
+        0.2267
       ],
       [
-        2,
-        0.2233
+        3,
+        0.2235
       ],
       [
         4,
-        0.1689
+        0.166
       ],
       [
         1,
-        0.1491
+        0.1502
       ],
       [
         5,
-        0.1008
+        0.101
       ],
       [
-        0,
-        0.0503
+        6,
+        0.05
       ]
     ],
     "htft": {
@@ -2778,7 +2778,7 @@
     "draw_alert": null,
     "kickoff": "",
     "sina_odds": null,
-    "kelly_edge": -0.0467
+    "kelly_edge": -0.0464
   },
   {
     "match_id": "2026-08-08_周六010",
@@ -2786,89 +2786,89 @@
     "home_team": "斯旺西",
     "away_team": "伯明翰",
     "home_win_prob": 0.2575,
-    "draw_prob": 0.2645,
-    "away_win_prob": 0.478,
+    "draw_prob": 0.2635,
+    "away_win_prob": 0.479,
     "home_xg": 1.106,
     "away_xg": 1.648,
     "home_odds": 3.7,
-    "draw_odds": 3.6,
+    "draw_odds": 3.61,
     "away_odds": 1.99,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.1326,
+    "confidence": 0.1329,
     "wilson_trust": 0.2742,
     "model_raw": {
       "home": 0.2543,
-      "draw": 0.2622,
-      "away": 0.4835
+      "draw": 0.261,
+      "away": 0.4847
     },
     "market_fair": null,
     "top_scores": [
       [
         1,
         2,
-        0.0976
+        0.0986
       ],
       [
         1,
         1,
-        0.0924
+        0.0901
       ],
       [
         0,
         2,
-        0.0868
+        0.0858
       ],
       [
         0,
         1,
-        0.0809
+        0.0807
       ],
       [
         1,
         3,
-        0.0701
+        0.0725
       ],
       [
         0,
         3,
-        0.0623
+        0.0615
       ],
       [
         2,
         2,
-        0.0558
+        0.0551
       ],
       [
         2,
         1,
-        0.0509
+        0.0492
       ]
     ],
     "total_goals": [
       [
         3,
-        0.2199
+        0.2184
       ],
       [
         2,
-        0.2032
+        0.1996
       ],
       [
         4,
-        0.1804
+        0.1844
       ],
       [
         1,
-        0.1227
+        0.1221
       ],
       [
         5,
-        0.1208
+        0.1204
       ],
       [
         6,
-        0.0655
+        0.0672
       ]
     ],
     "htft": {
@@ -2911,28 +2911,28 @@
     "draw_alert": null,
     "kickoff": "",
     "sina_odds": null,
-    "kelly_edge": -0.0472
+    "kelly_edge": -0.0468
   },
   {
     "match_id": "2026-08-08_周六012",
     "competition": "荷甲",
     "home_team": "奈梅亨",
     "away_team": "特尔斯达",
-    "home_win_prob": 0.4382,
-    "draw_prob": 0.2226,
-    "away_win_prob": 0.3391,
+    "home_win_prob": 0.4391,
+    "draw_prob": 0.2217,
+    "away_win_prob": 0.3392,
     "home_xg": 1.782,
     "away_xg": 1.93,
     "home_odds": 2.17,
-    "draw_odds": 4.28,
+    "draw_odds": 4.3,
     "away_odds": 2.81,
     "odds_synthetic": true,
     "handicap": null,
     "confidence": 0.1151,
     "wilson_trust": 0.2742,
     "model_raw": {
-      "home": 0.3606,
-      "draw": 0.2195,
+      "home": 0.3621,
+      "draw": 0.2179,
       "away": 0.4199
     },
     "market_fair": null,
@@ -3050,97 +3050,97 @@
     "draw_alert": null,
     "kickoff": "",
     "sina_odds": null,
-    "kelly_edge": -0.0471
+    "kelly_edge": -0.0467
   },
   {
     "match_id": "2026-08-08_周六013",
     "competition": "葡超",
     "home_team": "马里迪莫",
     "away_team": "卡萨皮亚",
-    "home_win_prob": 0.3719,
-    "draw_prob": 0.2993,
-    "away_win_prob": 0.3288,
+    "home_win_prob": 0.3731,
+    "draw_prob": 0.2992,
+    "away_win_prob": 0.3277,
     "home_xg": 1.144,
     "away_xg": 1.102,
-    "home_odds": 2.56,
+    "home_odds": 2.55,
     "draw_odds": 3.18,
-    "away_odds": 2.9,
+    "away_odds": 2.91,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.0806,
+    "confidence": 0.0809,
     "wilson_trust": 0.2247,
     "model_raw": {
-      "home": 0.3586,
-      "draw": 0.3036,
-      "away": 0.3379
+      "home": 0.36,
+      "draw": 0.3035,
+      "away": 0.3365
     },
     "market_fair": null,
     "top_scores": [
       [
         1,
         1,
-        0.1299
-      ],
-      [
-        0,
-        1,
-        0.1143
+        0.131
       ],
       [
         1,
         0,
-        0.1132
+        0.1146
       ],
       [
         0,
-        0,
-        0.0995
-      ],
-      [
         1,
-        2,
-        0.0789
+        0.1118
+      ],
+      [
+        0,
+        0,
+        0.0973
       ],
       [
         2,
         1,
+        0.0764
+      ],
+      [
+        1,
+        2,
         0.0758
       ],
       [
-        0,
         2,
-        0.0655
+        0,
+        0.0669
       ],
       [
-        2,
         0,
-        0.0652
+        2,
+        0.065
       ]
     ],
     "total_goals": [
       [
         2,
-        0.2607
+        0.2628
       ],
       [
         1,
-        0.2274
+        0.2264
       ],
       [
         3,
-        0.2074
+        0.203
       ],
       [
         4,
-        0.1192
+        0.1213
       ],
       [
         0,
-        0.0995
+        0.0973
       ],
       [
         5,
-        0.056
+        0.0577
       ]
     ],
     "htft": {
@@ -3183,97 +3183,97 @@
     "draw_alert": null,
     "kickoff": "",
     "sina_odds": null,
-    "kelly_edge": -0.0465
+    "kelly_edge": -0.0464
   },
   {
     "match_id": "2026-08-08_周六016",
     "competition": "荷甲",
     "home_team": "前进之鹰",
     "away_team": "威廉二世",
-    "home_win_prob": 0.5131,
-    "draw_prob": 0.2506,
-    "away_win_prob": 0.2363,
+    "home_win_prob": 0.5122,
+    "draw_prob": 0.2508,
+    "away_win_prob": 0.237,
     "home_xg": 1.847,
     "away_xg": 1.124,
     "home_odds": 1.86,
     "draw_odds": 3.8,
-    "away_odds": 4.03,
+    "away_odds": 4.02,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.1724,
+    "confidence": 0.1721,
     "wilson_trust": 0.3286,
     "model_raw": {
-      "home": 0.5246,
-      "draw": 0.2456,
-      "away": 0.2298
+      "home": 0.5236,
+      "draw": 0.2459,
+      "away": 0.2306
     },
     "market_fair": null,
     "top_scores": [
       [
         2,
         1,
-        0.0928
+        0.0933
       ],
       [
         2,
         0,
-        0.0783
+        0.077
       ],
       [
         3,
         1,
-        0.0776
+        0.0763
       ],
       [
         1,
         1,
-        0.0767
+        0.0758
       ],
       [
         3,
         0,
-        0.0639
+        0.0654
       ],
       [
         1,
         0,
-        0.0631
+        0.0636
       ],
       [
         2,
         2,
-        0.0565
+        0.0564
       ],
       [
         4,
         1,
-        0.0483
+        0.0491
       ]
     ],
     "total_goals": [
       [
         3,
-        0.2077
+        0.2112
       ],
       [
         4,
-        0.1945
+        0.193
       ],
       [
         2,
-        0.1725
+        0.1709
       ],
       [
         5,
-        0.1429
+        0.1401
       ],
       [
         1,
-        0.094
+        0.0951
       ],
       [
         6,
-        0.0847
+        0.0861
       ]
     ],
     "htft": {
@@ -3316,97 +3316,97 @@
     "draw_alert": null,
     "kickoff": "",
     "sina_odds": null,
-    "kelly_edge": -0.0456
+    "kelly_edge": -0.047
   },
   {
     "match_id": "2026-08-08_周六017",
     "competition": "葡超",
     "home_team": "吉马良斯",
     "away_team": "阿罗卡",
-    "home_win_prob": 0.1769,
-    "draw_prob": 0.2059,
+    "home_win_prob": 0.176,
+    "draw_prob": 0.2068,
     "away_win_prob": 0.6172,
     "home_xg": 1.1,
     "away_xg": 2.348,
-    "home_odds": 5.38,
-    "draw_odds": 4.63,
+    "home_odds": 5.41,
+    "draw_odds": 4.6,
     "away_odds": 1.54,
     "odds_synthetic": true,
     "handicap": null,
     "confidence": 0.2495,
     "wilson_trust": 0.3876,
     "model_raw": {
-      "home": 0.1628,
-      "draw": 0.1935,
-      "away": 0.6437
+      "home": 0.1619,
+      "draw": 0.1945,
+      "away": 0.6436
     },
     "market_fair": null,
     "top_scores": [
       [
         1,
         2,
-        0.0978
+        0.0997
       ],
       [
         1,
         1,
-        0.0955
-      ],
-      [
-        0,
-        1,
-        0.0825
+        0.0979
       ],
       [
         0,
         2,
-        0.0794
+        0.0821
+      ],
+      [
+        0,
+        1,
+        0.0783
       ],
       [
         1,
         3,
-        0.0664
-      ],
-      [
-        2,
-        2,
-        0.059
-      ],
-      [
-        2,
-        1,
-        0.058
+        0.0662
       ],
       [
         0,
         3,
-        0.0568
+        0.0582
+      ],
+      [
+        2,
+        2,
+        0.0573
+      ],
+      [
+        2,
+        1,
+        0.0555
       ]
     ],
     "total_goals": [
       [
         3,
-        0.2237
+        0.2245
       ],
       [
         2,
-        0.2026
+        0.2083
       ],
       [
         4,
-        0.1806
+        0.1766
       ],
       [
         1,
-        0.1287
+        0.1249
       ],
       [
         5,
-        0.1159
+        0.1135
       ],
       [
         6,
-        0.0616
+        0.064
       ]
     ],
     "htft": {
@@ -3449,46 +3449,46 @@
     "draw_alert": null,
     "kickoff": "",
     "sina_odds": null,
-    "kelly_edge": -0.0467
+    "kelly_edge": -0.0478
   },
   {
     "match_id": "2026-08-08_周六018",
     "competition": "荷甲",
     "home_team": "埃因霍温",
     "away_team": "福图纳",
-    "home_win_prob": 0.6284,
-    "draw_prob": 0.1984,
-    "away_win_prob": 0.1732,
+    "home_win_prob": 0.6295,
+    "draw_prob": 0.1971,
+    "away_win_prob": 0.1734,
     "home_xg": 2.589,
     "away_xg": 1.201,
-    "home_odds": 1.52,
-    "draw_odds": 4.8,
-    "away_odds": 5.5,
+    "home_odds": 1.51,
+    "draw_odds": 4.83,
+    "away_odds": 5.49,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.2582,
+    "confidence": 0.2587,
     "wilson_trust": 0.3876,
     "model_raw": {
-      "home": 0.6662,
-      "draw": 0.1798,
-      "away": 0.154
+      "home": 0.6674,
+      "draw": 0.1784,
+      "away": 0.1542
     },
     "market_fair": null,
     "top_scores": [
       [
         2,
         1,
-        0.0966
+        0.0951
       ],
       [
         2,
         0,
-        0.0924
+        0.0935
       ],
       [
         1,
         1,
-        0.0873
+        0.0846
       ],
       [
         1,
@@ -3498,48 +3498,48 @@
       [
         3,
         1,
-        0.075
+        0.0734
       ],
       [
         3,
         0,
-        0.0681
+        0.0705
       ],
       [
         2,
         2,
-        0.0523
+        0.0522
       ],
       [
         1,
         2,
-        0.0468
+        0.0462
       ]
     ],
     "total_goals": [
       [
         3,
-        0.2189
+        0.2196
       ],
       [
         2,
-        0.199
+        0.1983
       ],
       [
         4,
-        0.1842
+        0.1844
       ],
       [
         5,
-        0.124
+        0.1244
       ],
       [
         1,
-        0.1161
+        0.1137
       ],
       [
         6,
-        0.0688
+        0.0695
       ]
     ],
     "htft": {
@@ -3582,7 +3582,7 @@
     "draw_alert": null,
     "kickoff": "",
     "sina_odds": null,
-    "kelly_edge": -0.0448
+    "kelly_edge": -0.048
   },
   {
     "match_id": "2026-08-08_周六019",
@@ -3590,89 +3590,89 @@
     "home_team": "波城FC",
     "away_team": "阿纳西",
     "home_win_prob": 0.4123,
-    "draw_prob": 0.2562,
-    "away_win_prob": 0.3315,
+    "draw_prob": 0.2571,
+    "away_win_prob": 0.3306,
     "home_xg": 1.586,
     "away_xg": 1.435,
     "home_odds": 2.31,
-    "draw_odds": 3.72,
-    "away_odds": 2.87,
+    "draw_odds": 3.7,
+    "away_odds": 2.88,
     "odds_synthetic": true,
     "handicap": null,
     "confidence": 0.1113,
     "wilson_trust": 0.2742,
     "model_raw": {
       "home": 0.4059,
-      "draw": 0.2539,
-      "away": 0.3402
+      "draw": 0.2549,
+      "away": 0.3392
     },
     "market_fair": null,
     "top_scores": [
       [
         1,
         1,
-        0.1176
-      ],
-      [
-        1,
-        0,
-        0.0869
+        0.1187
       ],
       [
         2,
         1,
-        0.0858
+        0.09
+      ],
+      [
+        1,
+        0,
+        0.0857
       ],
       [
         1,
         2,
-        0.08
+        0.0796
       ],
       [
         0,
         1,
-        0.078
+        0.0763
       ],
       [
         2,
         0,
-        0.0648
+        0.0652
       ],
       [
         2,
         2,
-        0.0582
+        0.0592
       ],
       [
         0,
         0,
-        0.0578
+        0.0576
       ]
     ],
     "total_goals": [
       [
         2,
-        0.2353
+        0.2366
       ],
       [
         3,
-        0.2218
+        0.225
       ],
       [
         1,
-        0.1649
+        0.162
       ],
       [
         4,
-        0.1584
+        0.1561
       ],
       [
         5,
-        0.0904
+        0.0919
       ],
       [
         0,
-        0.0578
+        0.0576
       ]
     ],
     "htft": {
@@ -3715,97 +3715,97 @@
     "draw_alert": null,
     "kickoff": "",
     "sina_odds": null,
-    "kelly_edge": -0.0469
+    "kelly_edge": -0.0476
   },
   {
     "match_id": "2026-08-08_周六020",
     "competition": "法乙",
     "home_team": "蒙彼利埃",
     "away_team": "第戎",
-    "home_win_prob": 0.3875,
-    "draw_prob": 0.3463,
-    "away_win_prob": 0.2662,
+    "home_win_prob": 0.3884,
+    "draw_prob": 0.3457,
+    "away_win_prob": 0.2659,
     "home_xg": 1.01,
     "away_xg": 0.786,
-    "home_odds": 2.46,
+    "home_odds": 2.45,
     "draw_odds": 2.75,
     "away_odds": 3.58,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.0846,
+    "confidence": 0.0849,
     "wilson_trust": 0.2247,
     "model_raw": {
-      "home": 0.3767,
-      "draw": 0.3579,
-      "away": 0.2654
+      "home": 0.3777,
+      "draw": 0.3572,
+      "away": 0.2651
     },
     "market_fair": null,
     "top_scores": [
       [
         1,
         1,
-        0.1231
+        0.1207
       ],
       [
         1,
         0,
-        0.1184
+        0.118
       ],
       [
         2,
         1,
-        0.092
+        0.094
       ],
       [
         2,
         0,
-        0.0897
+        0.0902
+      ],
+      [
+        0,
+        0,
+        0.0783
       ],
       [
         0,
         1,
-        0.0806
-      ],
-      [
-        0,
-        0,
-        0.0787
+        0.078
       ],
       [
         1,
         2,
-        0.0626
+        0.0639
       ],
       [
         2,
         2,
-        0.0485
+        0.0495
       ]
     ],
     "total_goals": [
       [
         2,
-        0.2543
+        0.2525
       ],
       [
         3,
-        0.2143
+        0.2188
       ],
       [
         1,
-        0.199
+        0.1961
       ],
       [
         4,
-        0.1392
+        0.1397
       ],
       [
         0,
-        0.0787
+        0.0783
       ],
       [
         5,
-        0.0697
+        0.0701
       ]
     ],
     "htft": {
@@ -3848,97 +3848,97 @@
     "draw_alert": null,
     "kickoff": "",
     "sina_odds": null,
-    "kelly_edge": -0.0467
+    "kelly_edge": -0.0481
   },
   {
     "match_id": "2026-08-08_周六021",
     "competition": "法乙",
     "home_team": "南特",
     "away_team": "圣旺红星",
-    "home_win_prob": 0.3326,
-    "draw_prob": 0.2879,
-    "away_win_prob": 0.3795,
+    "home_win_prob": 0.3322,
+    "draw_prob": 0.2888,
+    "away_win_prob": 0.379,
     "home_xg": 1.185,
     "away_xg": 1.235,
-    "home_odds": 2.86,
-    "draw_odds": 3.31,
+    "home_odds": 2.87,
+    "draw_odds": 3.3,
     "away_odds": 2.51,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.0826,
+    "confidence": 0.0824,
     "wilson_trust": 0.2247,
     "model_raw": {
-      "home": 0.3421,
-      "draw": 0.2904,
-      "away": 0.3675
+      "home": 0.3417,
+      "draw": 0.2914,
+      "away": 0.3669
     },
     "market_fair": null,
     "top_scores": [
       [
         1,
         1,
-        0.1288
+        0.1303
       ],
       [
         0,
         1,
-        0.116
+        0.1149
       ],
       [
         1,
         0,
-        0.0983
+        0.0991
       ],
       [
         0,
         0,
-        0.0891
+        0.0887
       ],
       [
         1,
         2,
-        0.0846
+        0.0821
       ],
       [
         0,
         2,
-        0.0765
+        0.0749
       ],
       [
         2,
         1,
-        0.0735
+        0.0698
       ],
       [
         2,
         0,
-        0.0555
+        0.0562
       ]
     ],
     "total_goals": [
       [
         2,
-        0.2608
+        0.2613
       ],
       [
         1,
-        0.2143
+        0.2141
       ],
       [
         3,
-        0.211
+        0.2053
       ],
       [
         4,
-        0.1283
+        0.1312
       ],
       [
         0,
-        0.0891
+        0.0887
       ],
       [
         5,
-        0.06
+        0.0625
       ]
     ],
     "htft": {
@@ -3981,97 +3981,97 @@
     "draw_alert": null,
     "kickoff": "",
     "sina_odds": null,
-    "kelly_edge": -0.0471
+    "kelly_edge": -0.0466
   },
   {
     "match_id": "2026-08-08_周六022",
     "competition": "荷甲",
     "home_team": "阿尔克马",
     "away_team": "海牙",
-    "home_win_prob": 0.7401,
-    "draw_prob": 0.176,
-    "away_win_prob": 0.0839,
+    "home_win_prob": 0.7397,
+    "draw_prob": 0.1761,
+    "away_win_prob": 0.0842,
     "home_xg": 2.655,
     "away_xg": 0.635,
     "home_odds": 1.29,
     "draw_odds": 5.41,
-    "away_odds": 11.36,
+    "away_odds": 11.31,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.3527,
+    "confidence": 0.3526,
     "wilson_trust": 0.4514,
     "model_raw": {
-      "home": 0.7814,
-      "draw": 0.1528,
-      "away": 0.0658
+      "home": 0.7811,
+      "draw": 0.1529,
+      "away": 0.0661
     },
     "market_fair": null,
     "top_scores": [
       [
         3,
         0,
-        0.1083
+        0.1065
       ],
       [
         4,
         0,
-        0.0938
+        0.0944
       ],
       [
         2,
         0,
-        0.0912
+        0.0926
       ],
       [
         3,
         1,
-        0.0748
+        0.075
       ],
       [
         5,
         0,
-        0.0663
-      ],
-      [
-        4,
-        1,
-        0.066
+        0.0661
       ],
       [
         2,
         1,
-        0.0642
+        0.0647
+      ],
+      [
+        4,
+        1,
+        0.0638
       ],
       [
         1,
         0,
-        0.0523
+        0.0539
       ]
     ],
     "total_goals": [
       [
         4,
-        0.1942
+        0.1952
       ],
       [
         3,
-        0.186
+        0.1844
       ],
       [
         5,
-        0.1643
+        0.1621
       ],
       [
         2,
-        0.1322
+        0.1333
       ],
       [
         6,
-        0.1153
+        0.1133
       ],
       [
         7,
-        0.0675
+        0.0685
       ]
     ],
     "htft": {
@@ -4114,19 +4114,19 @@
     "draw_alert": null,
     "kickoff": "",
     "sina_odds": null,
-    "kelly_edge": -0.0453
+    "kelly_edge": -0.0458
   },
   {
     "match_id": "2026-08-08_周六024",
     "competition": "葡超",
     "home_team": "阿马多拉",
     "away_team": "里斯本",
-    "home_win_prob": 0.1262,
+    "home_win_prob": 0.1263,
     "draw_prob": 0.1939,
-    "away_win_prob": 0.6799,
+    "away_win_prob": 0.6798,
     "home_xg": 0.845,
     "away_xg": 2.449,
-    "home_odds": 7.55,
+    "home_odds": 7.54,
     "draw_odds": 4.91,
     "away_odds": 1.4,
     "odds_synthetic": true,
@@ -4134,77 +4134,77 @@
     "confidence": 0.3252,
     "wilson_trust": 0.4514,
     "model_raw": {
-      "home": 0.1063,
+      "home": 0.1064,
       "draw": 0.1732,
-      "away": 0.7205
+      "away": 0.7204
     },
     "market_fair": null,
     "top_scores": [
       [
         0,
         2,
-        0.1233
+        0.1214
       ],
       [
         0,
         3,
-        0.105
+        0.1061
       ],
       [
         0,
         1,
-        0.097
+        0.0934
       ],
       [
         1,
         2,
-        0.0911
+        0.0889
       ],
       [
         1,
         3,
-        0.0753
+        0.0768
       ],
       [
         1,
         1,
-        0.0693
+        0.069
       ],
       [
         0,
         4,
-        0.067
+        0.0686
       ],
       [
         1,
         4,
-        0.0479
+        0.0488
       ]
     ],
     "total_goals": [
       [
         3,
-        0.2231
+        0.2226
       ],
       [
         2,
-        0.2022
+        0.1997
       ],
       [
         4,
-        0.1797
+        0.1846
       ],
       [
         1,
-        0.1238
+        0.121
       ],
       [
         5,
-        0.1185
+        0.1201
       ],
       [
         6,
-        0.0641
+        0.0648
       ]
     ],
     "htft": {
@@ -4247,16 +4247,16 @@
     "draw_alert": null,
     "kickoff": "",
     "sina_odds": null,
-    "kelly_edge": -0.0472
+    "kelly_edge": -0.0477
   },
   {
     "match_id": "2026-08-09_周日001",
     "competition": "日职",
     "home_team": "东京绿茵",
     "away_team": "川崎前锋",
-    "home_win_prob": 0.4114,
-    "draw_prob": 0.2568,
-    "away_win_prob": 0.3318,
+    "home_win_prob": 0.4111,
+    "draw_prob": 0.2566,
+    "away_win_prob": 0.3323,
     "home_xg": 1.586,
     "away_xg": 1.435,
     "home_odds": 2.32,
@@ -4264,80 +4264,80 @@
     "away_odds": 2.87,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.111,
+    "confidence": 0.1109,
     "wilson_trust": 0.2742,
     "model_raw": {
-      "home": 0.4048,
-      "draw": 0.2546,
-      "away": 0.3406
+      "home": 0.4045,
+      "draw": 0.2543,
+      "away": 0.3412
     },
     "market_fair": null,
     "top_scores": [
       [
         1,
         1,
-        0.1174
-      ],
-      [
-        1,
-        0,
-        0.0873
+        0.1187
       ],
       [
         2,
         1,
-        0.0859
+        0.0897
+      ],
+      [
+        1,
+        0,
+        0.0858
+      ],
+      [
+        0,
+        1,
+        0.0802
       ],
       [
         1,
         2,
-        0.0814
-      ],
-      [
-        0,
-        1,
-        0.0774
+        0.0792
       ],
       [
         2,
         0,
-        0.0636
+        0.064
       ],
       [
         2,
         2,
-        0.0611
+        0.0582
       ],
       [
         0,
         0,
-        0.0573
+        0.0572
       ]
     ],
     "total_goals": [
       [
         2,
-        0.2332
+        0.2369
       ],
       [
         3,
-        0.2227
+        0.2248
       ],
       [
         1,
-        0.1647
+        0.166
       ],
       [
         4,
-        0.1625
+        0.1583
       ],
       [
         5,
-        0.0915
+        0.089
       ],
       [
         0,
-        0.0573
+        0.0572
       ]
     ],
     "htft": {
@@ -4380,230 +4380,97 @@
     "draw_alert": null,
     "kickoff": "",
     "sina_odds": null,
-    "kelly_edge": -0.0456
+    "kelly_edge": -0.0462
   },
   {
     "match_id": "2026-08-09_周日002",
     "competition": "日职",
     "home_team": "长崎航海",
     "away_team": "京都",
-    "home_win_prob": 0.4123,
-    "draw_prob": 0.2567,
-    "away_win_prob": 0.331,
-    "home_xg": 1.586,
-    "away_xg": 1.435,
-    "home_odds": 2.31,
-    "draw_odds": 3.71,
-    "away_odds": 2.88,
-    "odds_synthetic": true,
-    "handicap": null,
-    "confidence": 0.1113,
-    "wilson_trust": 0.2742,
-    "model_raw": {
-      "home": 0.4059,
-      "draw": 0.2544,
-      "away": 0.3396
-    },
-    "market_fair": null,
-    "top_scores": [
-      [
-        1,
-        1,
-        0.1176
-      ],
-      [
-        2,
-        1,
-        0.0884
-      ],
-      [
-        1,
-        0,
-        0.0872
-      ],
-      [
-        1,
-        2,
-        0.0791
-      ],
-      [
-        0,
-        1,
-        0.0777
-      ],
-      [
-        2,
-        0,
-        0.0642
-      ],
-      [
-        2,
-        2,
-        0.0597
-      ],
-      [
-        0,
-        0,
-        0.0577
-      ]
-    ],
-    "total_goals": [
-      [
-        2,
-        0.2357
-      ],
-      [
-        3,
-        0.224
-      ],
-      [
-        1,
-        0.1649
-      ],
-      [
-        4,
-        0.1581
-      ],
-      [
-        5,
-        0.0902
-      ],
-      [
-        0,
-        0.0577
-      ]
-    ],
-    "htft": {
-      "HH": 0.1702,
-      "HD": 0.0973,
-      "HA": 0.0524,
-      "DH": 0.1809,
-      "DD": 0.0823,
-      "DA": 0.1371,
-      "AH": 0.0597,
-      "AD": 0.0896,
-      "AA": 0.1305
-    },
-    "htft_top3": [
-      [
-        "DH",
-        0.1809
-      ],
-      [
-        "HH",
-        0.1702
-      ],
-      [
-        "DA",
-        0.1371
-      ]
-    ],
-    "reverse_upset_risk": null,
-    "reverse_direction": null,
-    "reverse_compression": null,
-    "same_odds_matched": 0,
-    "same_odds_confidence": 0,
-    "same_odds_bias": null,
-    "combo_boost": 0.1243,
-    "djyy_enriched": false,
-    "djyy_model_prob": null,
-    "_djyy_id": null,
-    "elo_home": 1500.0,
-    "elo_away": 1500.0,
-    "draw_alert": null,
-    "kickoff": "",
-    "sina_odds": null,
-    "kelly_edge": -0.0467
-  },
-  {
-    "match_id": "2026-08-09_周日003",
-    "competition": "日职乙",
-    "home_team": "山形山神",
-    "away_team": "枥木城",
     "home_win_prob": 0.4126,
-    "draw_prob": 0.2565,
-    "away_win_prob": 0.3309,
+    "draw_prob": 0.2574,
+    "away_win_prob": 0.33,
     "home_xg": 1.586,
     "away_xg": 1.435,
     "home_odds": 2.31,
-    "draw_odds": 3.71,
-    "away_odds": 2.88,
+    "draw_odds": 3.7,
+    "away_odds": 2.89,
     "odds_synthetic": true,
     "handicap": null,
     "confidence": 0.1114,
     "wilson_trust": 0.2742,
     "model_raw": {
       "home": 0.4063,
-      "draw": 0.2542,
-      "away": 0.3396
+      "draw": 0.2552,
+      "away": 0.3385
     },
     "market_fair": null,
     "top_scores": [
       [
         1,
         1,
-        0.1192
+        0.1185
       ],
       [
         2,
         1,
-        0.0874
+        0.0887
       ],
       [
         1,
         0,
-        0.0856
-      ],
-      [
-        0,
-        1,
-        0.0792
+        0.0881
       ],
       [
         1,
         2,
-        0.0788
+        0.0779
+      ],
+      [
+        0,
+        1,
+        0.0769
       ],
       [
         2,
         0,
-        0.0667
+        0.0635
       ],
       [
         0,
         0,
+        0.0597
+      ],
+      [
+        2,
+        2,
         0.0587
-      ],
-      [
-        2,
-        2,
-        0.0576
       ]
     ],
     "total_goals": [
       [
         2,
-        0.2403
+        0.2363
       ],
       [
         3,
-        0.2208
+        0.2229
       ],
       [
         1,
-        0.1648
+        0.165
       ],
       [
         4,
-        0.1559
+        0.1578
       ],
       [
         5,
-        0.0911
+        0.0886
       ],
       [
         0,
-        0.0587
+        0.0597
       ]
     ],
     "htft": {
@@ -4646,97 +4513,230 @@
     "draw_alert": null,
     "kickoff": "",
     "sina_odds": null,
-    "kelly_edge": -0.0469
+    "kelly_edge": -0.0463
+  },
+  {
+    "match_id": "2026-08-09_周日003",
+    "competition": "日职乙",
+    "home_team": "山形山神",
+    "away_team": "枥木城",
+    "home_win_prob": 0.4123,
+    "draw_prob": 0.2564,
+    "away_win_prob": 0.3313,
+    "home_xg": 1.586,
+    "away_xg": 1.435,
+    "home_odds": 2.31,
+    "draw_odds": 3.71,
+    "away_odds": 2.87,
+    "odds_synthetic": true,
+    "handicap": null,
+    "confidence": 0.1113,
+    "wilson_trust": 0.2742,
+    "model_raw": {
+      "home": 0.406,
+      "draw": 0.2541,
+      "away": 0.34
+    },
+    "market_fair": null,
+    "top_scores": [
+      [
+        1,
+        1,
+        0.1179
+      ],
+      [
+        1,
+        0,
+        0.087
+      ],
+      [
+        2,
+        1,
+        0.0868
+      ],
+      [
+        1,
+        2,
+        0.0805
+      ],
+      [
+        0,
+        1,
+        0.0785
+      ],
+      [
+        2,
+        0,
+        0.0663
+      ],
+      [
+        2,
+        2,
+        0.0594
+      ],
+      [
+        0,
+        0,
+        0.0578
+      ]
+    ],
+    "total_goals": [
+      [
+        2,
+        0.2376
+      ],
+      [
+        3,
+        0.223
+      ],
+      [
+        1,
+        0.1655
+      ],
+      [
+        4,
+        0.1566
+      ],
+      [
+        5,
+        0.091
+      ],
+      [
+        0,
+        0.0578
+      ]
+    ],
+    "htft": {
+      "HH": 0.1702,
+      "HD": 0.0973,
+      "HA": 0.0524,
+      "DH": 0.1809,
+      "DD": 0.0823,
+      "DA": 0.1371,
+      "AH": 0.0597,
+      "AD": 0.0896,
+      "AA": 0.1305
+    },
+    "htft_top3": [
+      [
+        "DH",
+        0.1809
+      ],
+      [
+        "HH",
+        0.1702
+      ],
+      [
+        "DA",
+        0.1371
+      ]
+    ],
+    "reverse_upset_risk": null,
+    "reverse_direction": null,
+    "reverse_compression": null,
+    "same_odds_matched": 0,
+    "same_odds_confidence": 0,
+    "same_odds_bias": null,
+    "combo_boost": 0.1243,
+    "djyy_enriched": false,
+    "djyy_model_prob": null,
+    "_djyy_id": null,
+    "elo_home": 1500.0,
+    "elo_away": 1500.0,
+    "draw_alert": null,
+    "kickoff": "",
+    "sina_odds": null,
+    "kelly_edge": -0.0476
   },
   {
     "match_id": "2026-08-09_周日004",
     "competition": "荷甲",
     "home_team": "鹿斯巴达",
     "away_team": "费耶诺德",
-    "home_win_prob": 0.1885,
-    "draw_prob": 0.1867,
-    "away_win_prob": 0.6248,
+    "home_win_prob": 0.1868,
+    "draw_prob": 0.1878,
+    "away_win_prob": 0.6254,
     "home_xg": 1.468,
     "away_xg": 2.873,
-    "home_odds": 5.05,
-    "draw_odds": 5.1,
+    "home_odds": 5.1,
+    "draw_odds": 5.07,
     "away_odds": 1.52,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.2567,
+    "confidence": 0.257,
     "wilson_trust": 0.3876,
     "model_raw": {
-      "home": 0.1697,
-      "draw": 0.1679,
-      "away": 0.6624
+      "home": 0.168,
+      "draw": 0.169,
+      "away": 0.663
     },
     "market_fair": null,
     "top_scores": [
       [
         1,
         2,
-        0.095
+        0.0966
       ],
       [
         0,
         2,
-        0.0843
+        0.0823
       ],
       [
         1,
         1,
-        0.0777
+        0.0794
       ],
       [
         1,
         3,
-        0.0767
+        0.0761
       ],
       [
         0,
         1,
-        0.0687
+        0.0677
       ],
       [
         0,
         3,
-        0.066
+        0.0675
       ],
       [
         2,
         2,
-        0.0547
+        0.0566
       ],
       [
         1,
         4,
-        0.0472
+        0.045
       ]
     ],
     "total_goals": [
       [
         3,
-        0.2133
+        0.2143
       ],
       [
         4,
-        0.1906
+        0.1934
       ],
       [
         2,
-        0.1809
+        0.1791
       ],
       [
         5,
-        0.1382
+        0.135
       ],
       [
         1,
-        0.1015
+        0.0999
       ],
       [
         6,
-        0.0793
+        0.0794
       ]
     ],
     "htft": {
@@ -4779,46 +4779,46 @@
     "draw_alert": null,
     "kickoff": "",
     "sina_odds": null,
-    "kelly_edge": -0.0478
+    "kelly_edge": -0.0473
   },
   {
     "match_id": "2026-08-09_周日005",
     "competition": "德乙",
     "home_team": "圣保利",
     "away_team": "菲尔特",
-    "home_win_prob": 0.301,
-    "draw_prob": 0.3278,
+    "home_win_prob": 0.2998,
+    "draw_prob": 0.3291,
     "away_win_prob": 0.3711,
     "home_xg": 0.916,
     "away_xg": 0.995,
-    "home_odds": 3.16,
-    "draw_odds": 2.91,
+    "home_odds": 3.18,
+    "draw_odds": 2.89,
     "away_odds": 2.57,
     "odds_synthetic": true,
     "handicap": null,
     "confidence": 0.0804,
     "wilson_trust": 0.2247,
     "model_raw": {
-      "home": 0.3056,
-      "draw": 0.3367,
-      "away": 0.3577
+      "home": 0.3041,
+      "draw": 0.3382,
+      "away": 0.3576
     },
     "market_fair": null,
     "top_scores": [
       [
         1,
         1,
-        0.1254
+        0.1284
       ],
       [
         1,
         0,
-        0.1138
+        0.109
       ],
       [
         0,
         1,
-        0.0952
+        0.0969
       ],
       [
         2,
@@ -4828,48 +4828,48 @@
       [
         0,
         0,
-        0.0826
-      ],
-      [
-        1,
-        2,
-        0.0731
+        0.0825
       ],
       [
         2,
         0,
+        0.075
+      ],
+      [
+        1,
+        2,
         0.073
       ],
       [
         0,
         2,
-        0.0557
+        0.0564
       ]
     ],
     "total_goals": [
       [
         2,
-        0.2542
+        0.2597
       ],
       [
         3,
-        0.2148
+        0.2127
       ],
       [
         1,
-        0.2089
+        0.206
       ],
       [
         4,
-        0.1326
+        0.1332
       ],
       [
         0,
-        0.0826
+        0.0825
       ],
       [
         5,
-        0.0668
+        0.0652
       ]
     ],
     "htft": {
@@ -4912,97 +4912,97 @@
     "draw_alert": null,
     "kickoff": "",
     "sina_odds": null,
-    "kelly_edge": -0.0461
+    "kelly_edge": -0.0463
   },
   {
     "match_id": "2026-08-09_周日006",
     "competition": "德乙",
     "home_team": "纽伦堡",
     "away_team": "德累斯顿",
-    "home_win_prob": 0.267,
-    "draw_prob": 0.2671,
-    "away_win_prob": 0.4658,
+    "home_win_prob": 0.2676,
+    "draw_prob": 0.2668,
+    "away_win_prob": 0.4657,
     "home_xg": 1.121,
     "away_xg": 1.58,
-    "home_odds": 3.57,
+    "home_odds": 3.56,
     "draw_odds": 3.57,
-    "away_odds": 2.04,
+    "away_odds": 2.05,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.1287,
+    "confidence": 0.1286,
     "wilson_trust": 0.2742,
     "model_raw": {
-      "home": 0.2653,
-      "draw": 0.2654,
-      "away": 0.4693
+      "home": 0.2659,
+      "draw": 0.265,
+      "away": 0.4691
     },
     "market_fair": null,
     "top_scores": [
       [
         1,
         1,
-        0.1042
+        0.1045
       ],
       [
         1,
         2,
-        0.0988
+        0.099
       ],
       [
         0,
         1,
-        0.0918
+        0.0929
       ],
       [
         0,
         2,
-        0.0877
+        0.088
       ],
       [
         1,
         3,
-        0.0612
+        0.0601
       ],
       [
         2,
         1,
-        0.0594
-      ],
-      [
-        2,
-        2,
-        0.0555
+        0.059
       ],
       [
         1,
         0,
-        0.0553
+        0.0569
+      ],
+      [
+        2,
+        2,
+        0.0548
       ]
     ],
     "total_goals": [
       [
         3,
-        0.2242
+        0.2248
       ],
       [
         2,
-        0.222
+        0.2237
       ],
       [
         4,
-        0.1703
+        0.1663
       ],
       [
         1,
-        0.1471
+        0.1498
       ],
       [
         5,
-        0.1022
+        0.1002
       ],
       [
         6,
-        0.0508
+        0.0518
       ]
     ],
     "htft": {
@@ -5045,97 +5045,97 @@
     "draw_alert": null,
     "kickoff": "",
     "sina_odds": null,
-    "kelly_edge": -0.0465
+    "kelly_edge": -0.0453
   },
   {
     "match_id": "2026-08-09_周日009",
     "competition": "荷甲",
     "home_team": "兹沃勒",
     "away_team": "阿贾克斯",
-    "home_win_prob": 0.1369,
-    "draw_prob": 0.1385,
-    "away_win_prob": 0.7246,
+    "home_win_prob": 0.1371,
+    "draw_prob": 0.1391,
+    "away_win_prob": 0.7238,
     "home_xg": 1.259,
     "away_xg": 3.396,
-    "home_odds": 6.96,
-    "draw_odds": 6.87,
-    "away_odds": 1.31,
+    "home_odds": 6.95,
+    "draw_odds": 6.84,
+    "away_odds": 1.32,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.3464,
+    "confidence": 0.346,
     "wilson_trust": 0.4514,
     "model_raw": {
-      "home": 0.1155,
-      "draw": 0.1171,
-      "away": 0.7674
+      "home": 0.1157,
+      "draw": 0.1177,
+      "away": 0.7666
     },
     "market_fair": null,
     "top_scores": [
       [
         0,
         3,
-        0.1423
+        0.1406
       ],
       [
         0,
         4,
-        0.1243
+        0.1255
       ],
       [
         0,
         2,
-        0.1229
+        0.121
       ],
       [
         0,
         5,
-        0.0869
+        0.0881
       ],
       [
         0,
         1,
-        0.0701
+        0.0696
       ],
       [
         1,
         3,
-        0.0577
-      ],
-      [
-        0,
-        6,
-        0.0546
+        0.0588
       ],
       [
         1,
         4,
-        0.0522
+        0.0527
+      ],
+      [
+        0,
+        6,
+        0.0527
       ]
     ],
     "total_goals": [
       [
         3,
-        0.1995
+        0.1983
       ],
       [
         4,
-        0.1927
-      ],
-      [
-        2,
-        0.1531
+        0.1959
       ],
       [
         5,
-        0.1526
+        0.1545
+      ],
+      [
+        2,
+        0.1516
       ],
       [
         6,
-        0.1034
+        0.1008
       ],
       [
         1,
-        0.0781
+        0.0777
       ]
     ],
     "htft": {
@@ -5178,61 +5178,61 @@
     "draw_alert": null,
     "kickoff": "",
     "sina_odds": null,
-    "kelly_edge": -0.0472
+    "kelly_edge": -0.0446
   },
   {
     "match_id": "2026-08-09_周日010",
     "competition": "荷甲",
     "home_team": "格罗宁根",
     "away_team": "乌德勒支",
-    "home_win_prob": 0.1877,
-    "draw_prob": 0.2076,
-    "away_win_prob": 0.6046,
+    "home_win_prob": 0.1865,
+    "draw_prob": 0.2106,
+    "away_win_prob": 0.6029,
     "home_xg": 1.165,
     "away_xg": 2.34,
-    "home_odds": 5.07,
-    "draw_odds": 4.59,
+    "home_odds": 5.11,
+    "draw_odds": 4.52,
     "away_odds": 1.58,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.244,
+    "confidence": 0.2433,
     "wilson_trust": 0.3876,
     "model_raw": {
-      "home": 0.1746,
-      "draw": 0.1958,
-      "away": 0.6296
+      "home": 0.1734,
+      "draw": 0.199,
+      "away": 0.6276
     },
     "market_fair": null,
     "top_scores": [
       [
         1,
         2,
-        0.1005
+        0.1001
       ],
       [
         1,
         1,
-        0.0949
+        0.0987
+      ],
+      [
+        0,
+        1,
+        0.0824
       ],
       [
         0,
         2,
-        0.083
-      ],
-      [
-        0,
-        1,
-        0.0808
+        0.0801
       ],
       [
         1,
         3,
-        0.0677
+        0.0656
       ],
       [
         2,
         2,
-        0.0579
+        0.058
       ],
       [
         2,
@@ -5242,33 +5242,33 @@
       [
         0,
         3,
-        0.0568
+        0.0565
       ]
     ],
     "total_goals": [
       [
         3,
-        0.2257
+        0.2243
       ],
       [
         2,
-        0.2052
+        0.2076
       ],
       [
         4,
-        0.1784
+        0.1767
       ],
       [
         1,
-        0.1285
+        0.1287
       ],
       [
         5,
-        0.1169
+        0.1154
       ],
       [
         6,
-        0.0613
+        0.0621
       ]
     ],
     "htft": {
@@ -5311,16 +5311,16 @@
     "draw_alert": null,
     "kickoff": "",
     "sina_odds": null,
-    "kelly_edge": -0.0447
+    "kelly_edge": -0.047
   },
   {
     "match_id": "2026-08-09_周日015",
     "competition": "荷甲",
     "home_team": "海伦芬",
     "away_team": "特温特",
-    "home_win_prob": 0.3611,
-    "draw_prob": 0.249,
-    "away_win_prob": 0.39,
+    "home_win_prob": 0.3614,
+    "draw_prob": 0.2488,
+    "away_win_prob": 0.3898,
     "home_xg": 1.571,
     "away_xg": 1.565,
     "home_odds": 2.64,
@@ -5331,69 +5331,69 @@
     "confidence": 0.0852,
     "wilson_trust": 0.2247,
     "model_raw": {
-      "home": 0.375,
-      "draw": 0.2458,
-      "away": 0.3793
+      "home": 0.3753,
+      "draw": 0.2456,
+      "away": 0.3791
     },
     "market_fair": null,
     "top_scores": [
       [
         1,
         1,
-        0.1191
+        0.1224
       ],
       [
         0,
         1,
-        0.1076
+        0.1084
       ],
       [
         1,
         2,
-        0.0941
+        0.0921
       ],
       [
         0,
         2,
-        0.0838
+        0.0843
       ],
       [
         1,
         0,
-        0.0778
+        0.0775
       ],
       [
         0,
         0,
-        0.0691
+        0.0678
       ],
       [
         2,
         1,
-        0.0662
+        0.0672
       ],
       [
         2,
         2,
-        0.0525
+        0.0508
       ]
     ],
     "total_goals": [
       [
         2,
-        0.2471
+        0.2505
       ],
       [
         3,
-        0.2188
+        0.218
       ],
       [
         1,
-        0.1854
+        0.1859
       ],
       [
         4,
-        0.1466
+        0.1463
       ],
       [
         5,
@@ -5401,7 +5401,7 @@
       ],
       [
         0,
-        0.0691
+        0.0678
       ]
     ],
     "htft": {
@@ -5444,97 +5444,97 @@
     "draw_alert": null,
     "kickoff": "",
     "sina_odds": null,
-    "kelly_edge": -0.0463
+    "kelly_edge": -0.0459
   },
   {
     "match_id": "2026-08-09_周日018",
     "competition": "葡超",
     "home_team": "波尔图",
     "away_team": "阿尔维卡",
-    "home_win_prob": 0.7091,
-    "draw_prob": 0.1521,
-    "away_win_prob": 0.1387,
+    "home_win_prob": 0.7088,
+    "draw_prob": 0.1528,
+    "away_win_prob": 0.1384,
     "home_xg": 3.137,
     "away_xg": 1.219,
     "home_odds": 1.34,
-    "draw_odds": 6.26,
-    "away_odds": 6.87,
+    "draw_odds": 6.23,
+    "away_odds": 6.88,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.3392,
+    "confidence": 0.3391,
     "wilson_trust": 0.4514,
     "model_raw": {
-      "home": 0.7515,
-      "draw": 0.1307,
-      "away": 0.1177
+      "home": 0.7512,
+      "draw": 0.1314,
+      "away": 0.1174
     },
     "market_fair": null,
     "top_scores": [
       [
         2,
         0,
-        0.1556
+        0.1548
       ],
       [
         3,
         0,
-        0.1478
+        0.15
       ],
       [
         4,
         0,
-        0.1085
+        0.1087
       ],
       [
         1,
         0,
-        0.1015
+        0.1045
       ],
       [
         5,
         0,
-        0.0657
+        0.0663
       ],
       [
         2,
         1,
-        0.0623
+        0.062
       ],
       [
         3,
         1,
-        0.0589
+        0.057
       ],
       [
         4,
         1,
-        0.044
+        0.0446
       ]
     ],
     "total_goals": [
       [
         3,
-        0.2188
+        0.2205
       ],
       [
         2,
-        0.2003
+        0.2002
       ],
       [
         4,
-        0.1809
+        0.1804
       ],
       [
         5,
-        0.1232
+        0.125
       ],
       [
         1,
-        0.1158
+        0.1185
       ],
       [
         6,
-        0.0715
+        0.0689
       ]
     ],
     "htft": {
@@ -5577,81 +5577,81 @@
     "draw_alert": null,
     "kickoff": "",
     "sina_odds": null,
-    "kelly_edge": -0.0471
+    "kelly_edge": -0.0478
   },
   {
     "match_id": "2026-08-09_周日021",
     "competition": "葡超",
     "home_team": "吉维森特",
     "away_team": "里奥阿维",
-    "home_win_prob": 0.4354,
-    "draw_prob": 0.2726,
-    "away_win_prob": 0.292,
+    "home_win_prob": 0.4363,
+    "draw_prob": 0.2729,
+    "away_win_prob": 0.2908,
     "home_xg": 1.434,
     "away_xg": 1.123,
-    "home_odds": 2.19,
+    "home_odds": 2.18,
     "draw_odds": 3.49,
-    "away_odds": 3.26,
+    "away_odds": 3.28,
     "odds_synthetic": true,
     "handicap": null,
-    "confidence": 0.1189,
+    "confidence": 0.1191,
     "wilson_trust": 0.2742,
     "model_raw": {
-      "home": 0.4335,
-      "draw": 0.2722,
-      "away": 0.2943
+      "home": 0.4345,
+      "draw": 0.2726,
+      "away": 0.2929
     },
     "market_fair": null,
     "top_scores": [
       [
         1,
         0,
-        0.1207
+        0.122
       ],
       [
         1,
         1,
-        0.1107
+        0.1125
       ],
       [
         2,
         0,
-        0.1038
+        0.1027
       ],
       [
         2,
         1,
-        0.0966
+        0.0971
       ],
       [
         0,
         0,
-        0.0712
+        0.0697
       ],
       [
         0,
         1,
-        0.0658
+        0.0645
       ],
       [
         3,
         0,
-        0.0572
+        0.0611
       ],
       [
+        3,
         1,
-        2,
-        0.0559
+        0.0552
       ]
     ],
     "total_goals": [
       [
         2,
-        0.2463
+        0.2462
       ],
       [
         3,
-        0.2194
+        0.2218
       ],
       [
         1,
@@ -5659,15 +5659,15 @@
       ],
       [
         4,
-        0.1443
+        0.1452
       ],
       [
         5,
-        0.0786
+        0.0776
       ],
       [
         0,
-        0.0712
+        0.0697
       ]
     ],
     "htft": {
@@ -5710,6 +5710,6 @@
     "draw_alert": null,
     "kickoff": "",
     "sina_odds": null,
-    "kelly_edge": -0.0465
+    "kelly_edge": -0.0462
   }
 ]
