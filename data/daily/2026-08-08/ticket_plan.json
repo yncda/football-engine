@@ -7,28 +7,28 @@
       "stake": 9449.7
     },
     {
-      "match": "2026-08-10_周一001",
-      "sel": "home",
-      "odds": 1.4,
-      "stake": 9449.7
-    },
-    {
       "match": "2026-08-08_周六003",
       "sel": "home",
       "odds": 1.45,
       "stake": 9449.7
     },
     {
-      "match": "2026-08-09_周日017",
+      "match": "2026-08-10_周一001",
+      "sel": "home",
+      "odds": 1.4,
+      "stake": 9449.7
+    },
+    {
+      "match": "2026-08-08_周六024",
       "sel": "away",
-      "odds": 1.57,
+      "odds": 1.4,
       "stake": 9449.7
     }
   ],
   "value": [],
   "lottery": [],
   "total_stake": 37798.8,
-  "expected_roi": -0.0449,
+  "expected_roi": -0.0462,
   "bankroll": 118121.29140000012,
   "breaker_multiplier": 1.0
 }
