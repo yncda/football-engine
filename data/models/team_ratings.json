@@ -1312,10 +1312,10 @@
     "rest_days": 3
   },
   "蒙彼利埃": {
-    "elo": 1334.1,
-    "attack": 0.6392,
-    "defense": 1.426,
-    "form": -0.3688,
+    "elo": 1359.6,
+    "attack": 0.6121,
+    "defense": 1.287,
+    "form": 0.0418,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6248,10 +6248,10 @@
     "rest_days": 3
   },
   "吉达联合": {
-    "elo": 1525.1,
-    "attack": 1.0061,
-    "defense": 1.1166,
-    "form": -0.1522,
+    "elo": 1544.3,
+    "attack": 0.9432,
+    "defense": 1.0077,
+    "form": 0.1935,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6488,10 +6488,10 @@
     "rest_days": 3
   },
   "敦刻尔克": {
-    "elo": 1506.5,
-    "attack": 1.0063,
-    "defense": 0.9729,
-    "form": 0.063,
+    "elo": 1481.0,
+    "attack": 0.9082,
+    "defense": 0.9132,
+    "form": -0.2559,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9976,10 +9976,10 @@
     "rest_days": 3
   },
   "胡拜尔库迪西亚": {
-    "elo": 1531.4,
-    "attack": 1.0081,
-    "defense": 0.9377,
-    "form": 0.3,
+    "elo": 1512.2,
+    "attack": 0.9098,
+    "defense": 0.8815,
+    "form": -0.09,
     "injury": 0.0,
     "rest_days": 3
   },
