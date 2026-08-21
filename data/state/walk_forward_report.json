@@ -1,46 +1,46 @@
 {
-  "total_matches": 307,
+  "total_matches": 309,
   "date_range": [
     "2026-07-19",
     "2026-08-21"
   ],
   "metrics": {
-    "brier": 0.6425,
-    "weighted_brier": 0.6421,
+    "brier": 0.6417,
+    "weighted_brier": 0.6413,
     "rps": 0.2156,
     "weighted_rps": 0.2154,
-    "log_loss": 1.0631,
-    "hit_rate": 0.4691,
-    "ece": 0.1777
+    "log_loss": 1.062,
+    "hit_rate": 0.4693,
+    "ece": 0.1737
   },
   "draw_analysis": {
     "actual_draws": 90,
-    "actual_draw_rate": 0.2932,
+    "actual_draw_rate": 0.2913,
     "predicted_draws": 14,
-    "predicted_draw_rate": 0.0456,
+    "predicted_draw_rate": 0.0453,
     "max_draw_prob": 0.4592,
-    "avg_draw_prob": 0.281,
-    "avg_market_draw": 0.2479,
+    "avg_draw_prob": 0.2811,
+    "avg_market_draw": 0.2476,
     "market_high_draw_n": 60,
     "market_high_draw_actual": 23,
     "market_high_draw_rate": 0.3833
   },
   "strategy_comparison": {
     "model": {
-      "hit_rate": 0.4593,
-      "n": 307
+      "hit_rate": 0.4595,
+      "n": 309
     },
     "market": {
-      "hit_rate": 0.5061,
-      "n": 247
+      "hit_rate": 0.506,
+      "n": 249
     },
     "hybrid_v2": {
-      "hit_rate": 0.4656,
-      "n": 247
+      "hit_rate": 0.4659,
+      "n": 249
     },
     "market_d28": {
-      "hit_rate": 0.4494,
-      "n": 247
+      "hit_rate": 0.4498,
+      "n": 249
     }
   },
   "by_league": {
@@ -63,10 +63,10 @@
       "rps": 0.2509
     },
     "芬超": {
-      "n": 23,
-      "hit_rate": 0.3043,
-      "brier": 0.723,
-      "rps": 0.2747
+      "n": 24,
+      "hit_rate": 0.2917,
+      "brier": 0.7237,
+      "rps": 0.2769
     },
     "瑞典超": {
       "n": 22,
@@ -110,17 +110,17 @@
       "brier": 0.5657,
       "rps": 0.2012
     },
+    "沙职": {
+      "n": 10,
+      "hit_rate": 0.8,
+      "brier": 0.5326,
+      "rps": 0.1812
+    },
     "瑞超": {
       "n": 9,
       "hit_rate": 0.5556,
       "brier": 0.59,
       "rps": 0.2268
-    },
-    "沙职": {
-      "n": 9,
-      "hit_rate": 0.7778,
-      "brier": 0.5573,
-      "rps": 0.1887
     },
     "解放者杯": {
       "n": 8,
