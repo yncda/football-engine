@@ -10048,10 +10048,10 @@
     "rest_days": 3
   },
   "登博思": {
-    "elo": 1474.5,
-    "attack": 0.9729,
-    "defense": 1.0081,
-    "form": -0.3,
+    "elo": 1511.4,
+    "attack": 1.054,
+    "defense": 0.9802,
+    "form": 0.09,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10259,6 +10259,14 @@
     "elo": 1476.8,
     "attack": 0.9025,
     "defense": 0.9729,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "埃因FC": {
+    "elo": 1463.1,
+    "attack": 0.9729,
+    "defense": 1.0784,
     "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
