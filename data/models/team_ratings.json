@@ -1504,10 +1504,10 @@
     "rest_days": 3
   },
   "多特蒙德": {
-    "elo": 1853.9,
-    "attack": 1.4624,
-    "defense": 0.9089,
-    "form": 0.4258,
+    "elo": 1827.8,
+    "attack": 1.355,
+    "defense": 0.8907,
+    "form": -0.0019,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5992,10 +5992,10 @@
     "rest_days": 3
   },
   "拜仁": {
-    "elo": 1659.4,
-    "attack": 1.2943,
-    "defense": 0.8399,
-    "form": 0.0656,
+    "elo": 1685.5,
+    "attack": 1.2385,
+    "defense": 0.7932,
+    "form": 0.3459,
     "injury": 0.0,
     "rest_days": 3
   },
