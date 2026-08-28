@@ -3487,7 +3487,11 @@
       "ttg": 0.142,
       "hafu": 0.111
     },
-    "kelly_edge": -0.0933
+    "kelly_edge": -0.0933,
+    "actual_result": "2-0",
+    "actual_home_score": 2,
+    "actual_away_score": 0,
+    "direction_correct": true
   },
   {
     "match_id": "2026-08-27_周四009",
@@ -3907,6 +3911,10 @@
     "play_ev": {
       "ttg": 0.088
     },
-    "kelly_edge": -0.0741
+    "kelly_edge": -0.0741,
+    "actual_result": "0-0",
+    "actual_home_score": 0,
+    "actual_away_score": 0,
+    "direction_correct": false
   }
 ]
