@@ -286,5 +286,23 @@
     "away_team": "波尔图",
     "half_home_score": 0,
     "half_away_score": 3
+  },
+  {
+    "match_id": "3744913",
+    "home_score": 2,
+    "away_score": 0,
+    "home_team": "尤文",
+    "away_team": "帕尔马",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "3762520",
+    "home_score": 1,
+    "away_score": 3,
+    "home_team": "塞维利亚",
+    "away_team": "马竞",
+    "half_home_score": 0,
+    "half_away_score": 3
   }
 ]
