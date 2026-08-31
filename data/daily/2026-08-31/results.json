@@ -1,0 +1,56 @@
+[
+  {
+    "match_id": "3635579",
+    "home_score": 1,
+    "away_score": 0,
+    "home_team": "国际图尔库",
+    "away_team": "库奥皮奥",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "3635577",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "赫尔火花",
+    "away_team": "TPS图尔库",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "3744971",
+    "home_score": 0,
+    "away_score": 4,
+    "home_team": "莱切",
+    "away_team": "罗马",
+    "half_home_score": 0,
+    "half_away_score": 3
+  },
+  {
+    "match_id": "3634313",
+    "home_score": 4,
+    "away_score": 0,
+    "home_team": "佐加顿斯",
+    "away_team": "米亚尔比",
+    "half_home_score": 3,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "3634319",
+    "home_score": 0,
+    "away_score": 1,
+    "home_team": "天狼星",
+    "away_team": "马尔默",
+    "half_home_score": 0,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "3762513",
+    "home_score": 1,
+    "away_score": 0,
+    "home_team": "奥萨苏纳",
+    "away_team": "赫塔菲",
+    "half_home_score": 1,
+    "half_away_score": 0
+  }
+]
