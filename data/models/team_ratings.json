@@ -1096,18 +1096,18 @@
     "rest_days": 3
   },
   "阿森纳": {
-    "elo": 2042.5,
-    "attack": 1.1516,
-    "defense": 0.4472,
-    "form": 0.7969,
+    "elo": 2052.7,
+    "attack": 1.0745,
+    "defense": 0.4036,
+    "form": 0.8578,
     "injury": 0.0,
     "rest_days": 3
   },
   "本菲卡": {
-    "elo": 1883.5,
-    "attack": 1.2925,
-    "defense": 0.3499,
-    "form": 0.806,
+    "elo": 1885.5,
+    "attack": 1.2369,
+    "defense": 0.351,
+    "form": 0.8642,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1416,10 +1416,10 @@
     "rest_days": 3
   },
   "圣埃蒂安": {
-    "elo": 1482.5,
-    "attack": 0.8784,
-    "defense": 1.2954,
-    "form": 0.2739,
+    "elo": 1491.5,
+    "attack": 0.8983,
+    "defense": 1.2395,
+    "form": 0.4917,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1544,10 +1544,10 @@
     "rest_days": 3
   },
   "阿斯顿维拉": {
-    "elo": 1846.4,
-    "attack": 1.104,
-    "defense": 0.849,
-    "form": -0.4312,
+    "elo": 1836.2,
+    "attack": 0.9964,
+    "defense": 0.8014,
+    "form": -0.6018,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1648,10 +1648,10 @@
     "rest_days": 3
   },
   "吉马良斯": {
-    "elo": 1435.2,
-    "attack": 0.6836,
-    "defense": 0.8819,
-    "form": -0.2811,
+    "elo": 1432.4,
+    "attack": 0.6169,
+    "defense": 0.8311,
+    "form": -0.4968,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1768,10 +1768,10 @@
     "rest_days": 3
   },
   "布拉加": {
-    "elo": 1779.3,
-    "attack": 0.9179,
-    "defense": 0.3117,
-    "form": 0.338,
+    "elo": 1782.1,
+    "attack": 0.8636,
+    "defense": 0.2813,
+    "form": 0.5366,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1856,10 +1856,10 @@
     "rest_days": 3
   },
   "埃斯托里尔": {
-    "elo": 1476.5,
-    "attack": 0.8956,
-    "defense": 1.1112,
-    "form": -0.5795,
+    "elo": 1474.5,
+    "attack": 0.8435,
+    "defense": 1.0732,
+    "form": -0.7056,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2144,10 +2144,10 @@
     "rest_days": 3
   },
   "亚特兰大": {
-    "elo": 1749.4,
-    "attack": 1.0199,
-    "defense": 0.884,
-    "form": 0.2003,
+    "elo": 1757.5,
+    "attack": 0.9556,
+    "defense": 0.7978,
+    "form": 0.4402,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2264,10 +2264,10 @@
     "rest_days": 3
   },
   "巴列卡诺": {
-    "elo": 1646.9,
-    "attack": 0.7941,
-    "defense": 0.7421,
-    "form": -0.1263,
+    "elo": 1619.7,
+    "attack": 0.787,
+    "defense": 0.8457,
+    "form": -0.3884,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4624,10 +4624,10 @@
     "rest_days": 3
   },
   "博洛尼亚": {
-    "elo": 1626.6,
-    "attack": 0.8433,
-    "defense": 0.9529,
-    "form": -0.1485,
+    "elo": 1618.5,
+    "attack": 0.7611,
+    "defense": 0.8952,
+    "form": -0.4039,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4824,10 +4824,10 @@
     "rest_days": 3
   },
   "巴萨": {
-    "elo": 1707.0,
-    "attack": 1.208,
-    "defense": 0.8896,
-    "form": 0.0828,
+    "elo": 1734.2,
+    "attack": 1.2661,
+    "defense": 0.8732,
+    "form": 0.358,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5208,10 +5208,10 @@
     "rest_days": 3
   },
   "第戎": {
-    "elo": 1255.0,
-    "attack": 0.5161,
-    "defense": 1.4233,
-    "form": -0.2083,
+    "elo": 1246.0,
+    "attack": 0.5362,
+    "defense": 1.3901,
+    "form": -0.4458,
     "injury": 0.0,
     "rest_days": 3
   },
