@@ -1096,18 +1096,18 @@
     "rest_days": 3
   },
   "阿森纳": {
-    "elo": 2052.7,
-    "attack": 1.0745,
-    "defense": 0.4036,
-    "form": 0.8578,
+    "elo": 2059.2,
+    "attack": 1.0049,
+    "defense": 0.3642,
+    "form": 0.9005,
     "injury": 0.0,
     "rest_days": 3
   },
   "本菲卡": {
-    "elo": 1885.5,
-    "attack": 1.2369,
-    "defense": 0.351,
-    "form": 0.8642,
+    "elo": 1887.5,
+    "attack": 1.1867,
+    "defense": 0.352,
+    "form": 0.9049,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2232,10 +2232,10 @@
     "rest_days": 3
   },
   "赫塔费": {
-    "elo": 1612.0,
-    "attack": 0.6284,
-    "defense": 0.703,
-    "form": 0.1555,
+    "elo": 1597.3,
+    "attack": 0.5671,
+    "defense": 0.6696,
+    "form": -0.1911,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3288,10 +3288,10 @@
     "rest_days": 3
   },
   "埃斯托里": {
-    "elo": 1475.4,
-    "attack": 0.9889,
-    "defense": 1.054,
-    "form": -0.2499,
+    "elo": 1473.4,
+    "attack": 0.9277,
+    "defense": 1.0216,
+    "form": -0.4749,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5088,10 +5088,10 @@
     "rest_days": 3
   },
   "奥萨苏纳": {
-    "elo": 1575.0,
-    "attack": 0.7554,
-    "defense": 0.8357,
-    "form": 0.2299,
+    "elo": 1589.7,
+    "attack": 0.7169,
+    "defense": 0.7542,
+    "form": 0.4609,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6472,10 +6472,10 @@
     "rest_days": 3
   },
   "维拉": {
-    "elo": 1750.2,
-    "attack": 1.2166,
-    "defense": 0.9198,
-    "form": 0.406,
+    "elo": 1743.7,
+    "attack": 1.098,
+    "defense": 0.8653,
+    "form": -0.0158,
     "injury": 0.0,
     "rest_days": 3
   },
