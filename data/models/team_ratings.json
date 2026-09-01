@@ -9952,10 +9952,10 @@
     "rest_days": 3
   },
   "吉达国民": {
-    "elo": 1519.0,
-    "attack": 0.9377,
-    "defense": 0.9025,
-    "form": 0.3,
+    "elo": 1496.2,
+    "attack": 0.8463,
+    "defense": 0.9201,
+    "form": -0.09,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10032,10 +10032,10 @@
     "rest_days": 3
   },
   "利雅得新月": {
-    "elo": 1622.8,
-    "attack": 1.1208,
-    "defense": 0.8276,
-    "form": 0.657,
+    "elo": 1645.6,
+    "attack": 1.1171,
+    "defense": 0.7469,
+    "form": 0.7599,
     "injury": 0.0,
     "rest_days": 3
   },
