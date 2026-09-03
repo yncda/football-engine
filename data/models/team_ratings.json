@@ -368,10 +368,10 @@
     "rest_days": 3
   },
   "弗拉门戈": {
-    "elo": 1729.9,
-    "attack": 0.6028,
-    "defense": 0.2861,
-    "form": 0.5111,
+    "elo": 1746.0,
+    "attack": 0.6144,
+    "defense": 0.2582,
+    "form": 0.6578,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -688,10 +688,10 @@
     "rest_days": 3
   },
   "女王巡游": {
-    "elo": 1362.4,
-    "attack": 0.809,
-    "defense": 1.3508,
-    "form": -0.5816,
+    "elo": 1376.9,
+    "attack": 0.8005,
+    "defense": 1.2543,
+    "form": -0.1071,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1720,10 +1720,10 @@
     "rest_days": 3
   },
   "弗洛西诺": {
-    "elo": 1418.9,
-    "attack": 0.7221,
-    "defense": 1.3417,
-    "form": -0.3045,
+    "elo": 1427.8,
+    "attack": 0.6869,
+    "defense": 1.2461,
+    "form": -0.2131,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1840,10 +1840,10 @@
     "rest_days": 3
   },
   "伯恩利": {
-    "elo": 1448.0,
-    "attack": 0.6432,
-    "defense": 1.2454,
-    "form": -0.3876,
+    "elo": 1442.8,
+    "attack": 0.6157,
+    "defense": 1.1592,
+    "form": -0.2713,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2344,10 +2344,10 @@
     "rest_days": 3
   },
   "萨索洛": {
-    "elo": 1571.9,
-    "attack": 0.749,
-    "defense": 0.8984,
-    "form": -0.1196,
+    "elo": 1563.0,
+    "attack": 0.7112,
+    "defense": 0.846,
+    "form": -0.0837,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3016,10 +3016,10 @@
     "rest_days": 3
   },
   "米堡": {
-    "elo": 1396.3,
-    "attack": 0.6874,
-    "defense": 1.37,
-    "form": -0.4605,
+    "elo": 1401.5,
+    "attack": 0.6556,
+    "defense": 1.2716,
+    "form": -0.3223,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3032,10 +3032,10 @@
     "rest_days": 3
   },
   "加的夫城": {
-    "elo": 1394.5,
-    "attack": 0.836,
-    "defense": 1.5211,
-    "form": -0.2973,
+    "elo": 1380.0,
+    "attack": 0.7897,
+    "defense": 1.4432,
+    "form": -0.5081,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5992,10 +5992,10 @@
     "rest_days": 3
   },
   "拜仁": {
-    "elo": 1685.5,
-    "attack": 1.2385,
-    "defense": 0.7932,
-    "form": 0.3459,
+    "elo": 1713.2,
+    "attack": 1.2585,
+    "defense": 0.751,
+    "form": 0.5421,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6128,10 +6128,10 @@
     "rest_days": 3
   },
   "米拉索尔": {
-    "elo": 1630.4,
-    "attack": 0.5848,
-    "defense": 0.498,
-    "form": 0.1102,
+    "elo": 1614.3,
+    "attack": 0.5278,
+    "defense": 0.5198,
+    "form": -0.2229,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9496,10 +9496,10 @@
     "rest_days": 3
   },
   "米尔沃尔": {
-    "elo": 1468.0,
-    "attack": 0.859,
-    "defense": 0.8693,
-    "form": -0.09,
+    "elo": 1422.5,
+    "attack": 0.7752,
+    "defense": 0.8901,
+    "form": -0.363,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10571,6 +10571,22 @@
     "elo": 1466.9,
     "attack": 0.9025,
     "defense": 0.9729,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "雷克斯": {
+    "elo": 1545.5,
+    "attack": 1.0081,
+    "defense": 0.9025,
+    "form": 0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "奥斯纳": {
+    "elo": 1472.3,
+    "attack": 0.9377,
+    "defense": 1.0432,
     "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
