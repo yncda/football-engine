@@ -1,0 +1,20 @@
+[
+  {
+    "match_id": "3798977",
+    "home_score": 2,
+    "away_score": 2,
+    "home_team": "费哈",
+    "away_team": "拉斯永恒",
+    "half_home_score": 1,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "3798978",
+    "home_score": 3,
+    "away_score": 0,
+    "home_team": "新未来城体育",
+    "away_team": "塞哈特海湾",
+    "half_home_score": 3,
+    "half_away_score": 0
+  }
+]
