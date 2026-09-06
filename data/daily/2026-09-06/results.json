@@ -124,5 +124,59 @@
     "away_team": "美因茨",
     "half_home_score": 0,
     "half_away_score": 2
+  },
+  {
+    "match_id": "3762550",
+    "home_score": 0,
+    "away_score": 5,
+    "home_team": "巴伦西亚",
+    "away_team": "巴萨",
+    "half_home_score": 0,
+    "half_away_score": 2
+  },
+  {
+    "match_id": "3775616",
+    "home_score": 4,
+    "away_score": 0,
+    "home_team": "圣克拉拉",
+    "away_team": "里奥阿维",
+    "half_home_score": 1,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "3635020",
+    "home_score": 2,
+    "away_score": 0,
+    "home_team": "莫尔德",
+    "away_team": "奥斯陆",
+    "half_home_score": 1,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "3755015",
+    "home_score": 2,
+    "away_score": 1,
+    "home_team": "阿森纳",
+    "away_team": "切尔西",
+    "half_home_score": 1,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "3763494",
+    "home_score": 1,
+    "away_score": 4,
+    "home_team": "法兰克福",
+    "away_team": "奥格斯堡",
+    "half_home_score": 1,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "3744887",
+    "home_score": 2,
+    "away_score": 2,
+    "home_team": "博洛尼亚",
+    "away_team": "萨索洛",
+    "half_home_score": 0,
+    "half_away_score": 1
   }
 ]
