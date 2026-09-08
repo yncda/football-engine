@@ -432,10 +432,10 @@
     "rest_days": 3
   },
   "格雷米奥": {
-    "elo": 1583.7,
-    "attack": 0.5603,
-    "defense": 0.5092,
-    "form": 0.4042,
+    "elo": 1562.8,
+    "attack": 0.5057,
+    "defense": 0.4947,
+    "form": -0.0171,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -528,10 +528,10 @@
     "rest_days": 3
   },
   "维多利亚": {
-    "elo": 1408.5,
-    "attack": 0.1591,
-    "defense": 0.8326,
-    "form": -0.7043,
+    "elo": 1429.4,
+    "attack": 0.1788,
+    "defense": 0.7514,
+    "form": -0.193,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1848,10 +1848,10 @@
     "rest_days": 3
   },
   "阿罗卡": {
-    "elo": 1574.7,
-    "attack": 0.8678,
-    "defense": 0.8325,
-    "form": 0.1494,
+    "elo": 1573.0,
+    "attack": 0.7832,
+    "defense": 0.7513,
+    "form": 0.1046,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2232,10 +2232,10 @@
     "rest_days": 3
   },
   "赫塔费": {
-    "elo": 1597.3,
-    "attack": 0.5671,
-    "defense": 0.6696,
-    "form": -0.1911,
+    "elo": 1589.6,
+    "attack": 0.547,
+    "defense": 0.6395,
+    "form": -0.1338,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3288,10 +3288,10 @@
     "rest_days": 3
   },
   "埃斯托里": {
-    "elo": 1473.4,
-    "attack": 0.9277,
-    "defense": 1.0216,
-    "form": -0.4749,
+    "elo": 1475.1,
+    "attack": 0.8372,
+    "defense": 0.922,
+    "form": -0.3324,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5976,10 +5976,10 @@
     "rest_days": 3
   },
   "利雅新月": {
-    "elo": 1565.5,
-    "attack": 1.244,
-    "defense": 1.355,
-    "form": -0.4404,
+    "elo": 1528.9,
+    "attack": 1.1227,
+    "defense": 1.2933,
+    "form": -0.6083,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10336,10 +10336,10 @@
     "rest_days": 3
   },
   "塞尔塔": {
-    "elo": 1481.0,
-    "attack": 0.6598,
-    "defense": 0.743,
-    "form": -0.2499,
+    "elo": 1488.7,
+    "attack": 0.6307,
+    "defense": 0.7057,
+    "form": -0.1749,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10608,10 +10608,10 @@
     "rest_days": 3
   },
   "新未来SC": {
-    "elo": 1533.9,
-    "attack": 1.0081,
-    "defense": 0.9025,
-    "form": 0.3,
+    "elo": 1570.5,
+    "attack": 0.9802,
+    "defense": 0.8145,
+    "form": 0.51,
     "injury": 0.0,
     "rest_days": 3
   },
