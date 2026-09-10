@@ -512,10 +512,10 @@
     "rest_days": 3
   },
   "帕尔梅拉斯": {
-    "elo": 1811.4,
-    "attack": 0.8058,
-    "defense": 0.2564,
-    "form": 0.3545,
+    "elo": 1814.8,
+    "attack": 0.7624,
+    "defense": 0.2314,
+    "form": 0.5481,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9984,10 +9984,10 @@
     "rest_days": 3
   },
   "基多体育大学": {
-    "elo": 1508.5,
-    "attack": 0.9377,
-    "defense": 0.9377,
-    "form": 0.0,
+    "elo": 1505.1,
+    "attack": 0.8463,
+    "defense": 0.8815,
+    "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
   },
