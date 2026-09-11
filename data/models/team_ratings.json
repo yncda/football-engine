@@ -368,10 +368,10 @@
     "rest_days": 3
   },
   "弗拉门戈": {
-    "elo": 1746.0,
-    "attack": 0.6144,
-    "defense": 0.2582,
-    "form": 0.6578,
+    "elo": 1761.0,
+    "attack": 0.6249,
+    "defense": 0.233,
+    "form": 0.7605,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6248,10 +6248,10 @@
     "rest_days": 3
   },
   "吉达联合": {
-    "elo": 1571.5,
-    "attack": 0.9339,
-    "defense": 0.9195,
-    "form": 0.6048,
+    "elo": 1597.8,
+    "attack": 0.9484,
+    "defense": 0.865,
+    "form": 0.7234,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9608,10 +9608,10 @@
     "rest_days": 3
   },
   "京都不死鸟": {
-    "elo": 1455.6,
-    "attack": 0.7956,
-    "defense": 0.9263,
-    "form": -0.657,
+    "elo": 1442.1,
+    "attack": 0.7884,
+    "defense": 0.9415,
+    "form": -0.7599,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9992,10 +9992,10 @@
     "rest_days": 3
   },
   "柏太阳神": {
-    "elo": 1559.5,
-    "attack": 0.8327,
-    "defense": 0.7442,
-    "form": 0.2319,
+    "elo": 1588.2,
+    "attack": 0.8791,
+    "defense": 0.74,
+    "form": 0.6236,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10040,10 +10040,10 @@
     "rest_days": 3
   },
   "费萨里": {
-    "elo": 1476.5,
-    "attack": 0.9729,
-    "defense": 1.0432,
-    "form": -0.3,
+    "elo": 1450.2,
+    "attack": 0.9132,
+    "defense": 1.047,
+    "form": -0.51,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10656,7 +10656,15 @@
     "rest_days": 3
   },
   "京都": {
-    "elo": 1476.5,
+    "elo": 1461.3,
+    "attack": 0.8849,
+    "defense": 0.9836,
+    "form": -0.51,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "山谷独立": {
+    "elo": 1485.0,
     "attack": 0.9025,
     "defense": 0.9729,
     "form": -0.3,
