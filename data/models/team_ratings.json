@@ -1200,10 +1200,10 @@
     "rest_days": 3
   },
   "威廉二世": {
-    "elo": 1206.7,
-    "attack": 0.8044,
-    "defense": 1.3814,
-    "form": -0.6954,
+    "elo": 1221.5,
+    "attack": 0.7612,
+    "defense": 1.2819,
+    "form": -0.4868,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1256,10 +1256,10 @@
     "rest_days": 3
   },
   "阿尔克马尔": {
-    "elo": 1712.6,
-    "attack": 1.2748,
-    "defense": 0.7183,
-    "form": 0.8948,
+    "elo": 1697.8,
+    "attack": 1.1857,
+    "defense": 0.6835,
+    "form": 0.6264,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2040,10 +2040,10 @@
     "rest_days": 3
   },
   "汉诺威96": {
-    "elo": 1437.5,
-    "attack": 0.7633,
-    "defense": 1.3029,
-    "form": -0.3424,
+    "elo": 1427.1,
+    "attack": 0.7241,
+    "defense": 1.2462,
+    "form": -0.5397,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4744,10 +4744,10 @@
     "rest_days": 3
   },
   "纽伦堡": {
-    "elo": 1500.0,
-    "attack": 0.8449,
-    "defense": 1.1858,
-    "form": 0.1095,
+    "elo": 1510.4,
+    "attack": 0.8329,
+    "defense": 1.1054,
+    "form": 0.3766,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5016,10 +5016,10 @@
     "rest_days": 3
   },
   "赫根": {
-    "elo": 1525.4,
-    "attack": 0.3862,
-    "defense": 0.3528,
-    "form": 0.4676,
+    "elo": 1515.6,
+    "attack": 0.3837,
+    "defense": 0.3536,
+    "form": 0.3273,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7968,10 +7968,10 @@
     "rest_days": 3
   },
   "米亚尔比": {
-    "elo": 1342.7,
-    "attack": 0.3931,
-    "defense": 0.8463,
-    "form": -0.8526,
+    "elo": 1352.5,
+    "attack": 0.39,
+    "defense": 0.799,
+    "form": -0.5968,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10668,6 +10668,22 @@
     "attack": 0.9025,
     "defense": 0.9729,
     "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "马斯特里赫特": {
+    "elo": 1435.5,
+    "attack": 0.9025,
+    "defense": 1.0432,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "阿尔梅勒城": {
+    "elo": 1564.5,
+    "attack": 1.0432,
+    "defense": 0.9025,
+    "form": 0.3,
     "injury": 0.0,
     "rest_days": 3
   }
