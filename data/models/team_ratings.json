@@ -1768,10 +1768,10 @@
     "rest_days": 3
   },
   "布拉加": {
-    "elo": 1757.2,
-    "attack": 0.8146,
-    "defense": 0.3242,
-    "form": 0.0756,
+    "elo": 1761.0,
+    "attack": 0.7704,
+    "defense": 0.2926,
+    "form": 0.3529,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1856,10 +1856,10 @@
     "rest_days": 3
   },
   "埃斯托里尔": {
-    "elo": 1476.2,
-    "attack": 0.7613,
-    "defense": 0.9686,
-    "form": -0.4939,
+    "elo": 1472.4,
+    "attack": 0.6871,
+    "defense": 0.9093,
+    "form": -0.6457,
     "injury": 0.0,
     "rest_days": 3
   },
