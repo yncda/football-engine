@@ -896,10 +896,10 @@
     "rest_days": 3
   },
   "赫尔辛基": {
-    "elo": 1491.9,
-    "attack": 0.4939,
-    "defense": 0.4696,
-    "form": -0.3245,
+    "elo": 1500.7,
+    "attack": 0.4809,
+    "defense": 0.459,
+    "form": -0.2271,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2104,10 +2104,10 @@
     "rest_days": 3
   },
   "沃尔夫斯堡": {
-    "elo": 1548.9,
-    "attack": 0.8912,
-    "defense": 1.1271,
-    "form": 0.3045,
+    "elo": 1586.1,
+    "attack": 0.9802,
+    "defense": 1.0524,
+    "form": 0.5131,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5792,10 +5792,10 @@
     "rest_days": 3
   },
   "萨普斯堡08": {
-    "elo": 1516.1,
-    "attack": 0.7467,
-    "defense": 0.8124,
-    "form": -0.3557,
+    "elo": 1481.4,
+    "attack": 0.7091,
+    "defense": 0.8387,
+    "form": -0.549,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7992,10 +7992,10 @@
     "rest_days": 3
   },
   "赫尔辛基火花": {
-    "elo": 1642.9,
-    "attack": 0.749,
-    "defense": 0.5589,
-    "form": 0.4507,
+    "elo": 1634.1,
+    "attack": 0.7112,
+    "defense": 0.5396,
+    "form": 0.3155,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9104,10 +9104,10 @@
     "rest_days": 3
   },
   "奥斯陆": {
-    "elo": 1508.9,
-    "attack": 0.7755,
-    "defense": 0.7915,
-    "form": -0.0501,
+    "elo": 1543.6,
+    "attack": 0.8054,
+    "defense": 0.7495,
+    "form": 0.2649,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10956,6 +10956,14 @@
     "attack": 0.9729,
     "defense": 0.9025,
     "form": 0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "达姆施塔特": {
+    "elo": 1462.8,
+    "attack": 0.9377,
+    "defense": 1.0784,
+    "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
   }
