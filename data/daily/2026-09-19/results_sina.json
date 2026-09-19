@@ -723,5 +723,30 @@
     "red_home": "1",
     "red_away": "0",
     "source": "sina"
+  },
+  {
+    "match_id": "3632677",
+    "match_no": "周六030",
+    "home_team": "米拉索尔",
+    "away_team": "博塔弗戈",
+    "home_score": 2,
+    "away_score": 0,
+    "half_home_score": 2,
+    "half_away_score": 0,
+    "league": "巴西甲",
+    "match_time": "2026-09-20 04:00:00",
+    "status": "完赛",
+    "status_detail": "完赛",
+    "note": "",
+    "odds_home": 1.98,
+    "odds_draw": 3.05,
+    "odds_away": 3.37,
+    "corner_home": "3",
+    "corner_away": "4",
+    "yellow_home": "0",
+    "yellow_away": "1",
+    "red_home": "0",
+    "red_away": "0",
+    "source": "sina"
   }
 ]

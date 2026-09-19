@@ -392,10 +392,10 @@
     "rest_days": 3
   },
   "博塔弗戈": {
-    "elo": 1675.2,
-    "attack": 0.3334,
-    "defense": 0.3293,
-    "form": -0.145,
+    "elo": 1646.7,
+    "attack": 0.3009,
+    "defense": 0.3676,
+    "form": -0.4015,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6128,10 +6128,10 @@
     "rest_days": 3
   },
   "米拉索尔": {
-    "elo": 1614.3,
-    "attack": 0.5278,
-    "defense": 0.5198,
-    "form": -0.2229,
+    "elo": 1642.8,
+    "attack": 0.5467,
+    "defense": 0.4691,
+    "form": 0.144,
     "injury": 0.0,
     "rest_days": 3
   },
