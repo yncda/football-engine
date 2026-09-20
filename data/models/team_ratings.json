@@ -1104,10 +1104,10 @@
     "rest_days": 3
   },
   "本菲卡": {
-    "elo": 1929.0,
-    "attack": 1.1452,
-    "defense": 0.2652,
-    "form": 0.9772,
+    "elo": 1898.2,
+    "attack": 1.0687,
+    "defense": 0.3449,
+    "form": 0.384,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1592,10 +1592,10 @@
     "rest_days": 3
   },
   "波尔图": {
-    "elo": 1839.8,
-    "attack": 0.9654,
-    "defense": 0.3686,
-    "form": 0.5456,
+    "elo": 1870.6,
+    "attack": 0.9768,
+    "defense": 0.3678,
+    "form": 0.6819,
     "injury": 0.0,
     "rest_days": 3
   },
