@@ -376,10 +376,10 @@
     "rest_days": 3
   },
   "巴拉纳竞技": {
-    "elo": 1676.8,
-    "attack": 0.6571,
-    "defense": 0.3899,
-    "form": 0.5964,
+    "elo": 1689.1,
+    "attack": 0.6634,
+    "defense": 0.3871,
+    "form": 0.7175,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -448,10 +448,10 @@
     "rest_days": 3
   },
   "巴伊亚": {
-    "elo": 1659.2,
-    "attack": 0.3435,
-    "defense": 0.2967,
-    "form": 0.3004,
+    "elo": 1646.9,
+    "attack": 0.3452,
+    "defense": 0.3381,
+    "form": -0.0897,
     "injury": 0.0,
     "rest_days": 3
   },
