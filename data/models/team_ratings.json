@@ -11080,18 +11080,18 @@
     "rest_days": 3
   },
   "克劳利": {
-    "elo": 1466.1,
-    "attack": 0.9377,
-    "defense": 1.0432,
-    "form": -0.3,
+    "elo": 1436.0,
+    "attack": 0.8815,
+    "defense": 1.0822,
+    "form": -0.51,
     "injury": 0.0,
     "rest_days": 3
   },
   "诺茨郡": {
-    "elo": 1513.0,
-    "attack": 0.9729,
-    "defense": 0.9377,
-    "form": 0.3,
+    "elo": 1525.5,
+    "attack": 0.9484,
+    "defense": 0.8815,
+    "form": 0.51,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11112,10 +11112,34 @@
     "rest_days": 3
   },
   "布莱克浦": {
-    "elo": 1487.0,
-    "attack": 0.9729,
-    "defense": 1.0081,
+    "elo": 1474.5,
+    "attack": 0.9484,
+    "defense": 1.0154,
+    "form": -0.51,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "米尔顿": {
+    "elo": 1530.1,
+    "attack": 1.0432,
+    "defense": 0.9377,
+    "form": 0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "格里姆": {
+    "elo": 1487.5,
+    "attack": 0.9377,
+    "defense": 0.9729,
     "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "维冈": {
+    "elo": 1512.5,
+    "attack": 1.0081,
+    "defense": 0.9729,
+    "form": 0.3,
     "injury": 0.0,
     "rest_days": 3
   }
